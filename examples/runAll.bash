@@ -53,10 +53,10 @@ STILTS_DIR=/usrdevel/dp0/dtucker/STILTS/latest
 ###############################################
 do_db_query="true"
 do_grab_refcat2="true"
-do_runConvert="true"
-do_concat="true"
-do_match="true"
-do_calc_zps="true"
+do_runConvert="false"
+do_concat="false"
+do_match="false"
+do_calc_zps="false"
 
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
@@ -68,13 +68,13 @@ do_calc_zps="true"
 if [ "$do_db_query" = "true" ] ; then
 
     echo 
-    echo DELVE_Calib_fileimgexp_query_fnal_Starlink2.py
+    echo DELVE_Calib_fileimgexp_query_fnal.py
     echo 
 
-    rm -f DELVE_Calib_fileimgexp_query_fnal_Starlink2.$date.log
+    rm -f DELVE_Calib_fileimgexp_query_fnal.$date.log
 
-    ../../bin/DELVE_Calib_fileimgexp_query_fnal_Starlink2.py \
-	> DELVE_Calib_fileimgexp_query_fnal_Starlink2.$date.log  2>&1
+    ../../bin/DELVE_Calib_fileimgexp_query_fnal.py \
+	> DELVE_Calib_fileimgexp_query_fnal.$date.log  2>&1
 
 fi
 
