@@ -20,6 +20,7 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument('--inputFile', help='name of the input file', default='DELVE_Calib_expimgfileinfo_fnal_DEEP.csv')
     parser.add_argument('--outputFile', help='name of the output file', default='rawData.DELVE_Calib_DEEP.csv')
+    parser.add_argument('--catDirName', help='name of the directory where the individual catalog files are located', default='.')
     parser.add_argument('--band', help='name of the filter band', default='g')
     parser.add_argument('--verbose', help='verbosity level of output to screen (0,1,2,...)', default=0, type=int)
     args = parser.parse_args()
@@ -36,6 +37,7 @@ def DELVE_Calib_concat_se_objects_fnal(args):
 
     inputFile=args.inputFile
     outputFile=args.outputFile
+    catDirName=args.catDirName
     band=args.band
 
     df_input = pd.read_csv(inputFile)
@@ -43,12 +45,11 @@ def DELVE_Calib_concat_se_objects_fnal(args):
     df_input['FILENAME'] = df_input['FILEPATH'].apply(lambda x: os.path.basename(x))
 
     fileList = []
-    dirNameFile = ''
     mask = (df_input.BAND == band)
     for index, row in df_input[mask].iterrows():
         fileName = row['FILENAME']
         fileName = os.path.splitext(fileName)[0]
-        fileName = """%s.csv""" % (fileName)
+        fileName = """%s/%s.csv""" % (catDirName, fileName)
         if os.path.isfile(fileName):
             fileList.append(fileName)
             print fileName
@@ -78,7 +79,7 @@ def DELVE_Calib_concat_se_objects_fnal(args):
     df_merge.to_csv(outputFile, index=False)
     
 
-    print 'Finis!'
+    return 0
 
 #--------------------------------------------------------------------------
 
