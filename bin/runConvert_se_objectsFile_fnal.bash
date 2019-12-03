@@ -15,7 +15,8 @@ for band in $bandList; do
 
 	outputFile=$inputFile
 	outputFile=${outputFile%.fits}
-	outputFile=${outputFile##*/}
+	# The following line was removed so that the outputFile will also be in the Downloads subdirectory (otherwise, outputFile would be in the current directory):
+	#outputFile=${outputFile##*/}
 	outputFile=$outputFile.csv
 
 	echo $inputFile, $outputFile
