@@ -19,7 +19,7 @@ query = \
             where f.expnum = e.expnum and
                   e.program='delve-deep' and 
                   e.radeg is not NULL and e.decdeg is not NULL and 
-                  e.glat > 10 and 
+                  abs(e.glat) > 10 and 
                   e.exptime > 1. and 
                   e.band in ('g','r','i','z') and 
                   f.filetype = 'fullcat'
@@ -53,7 +53,7 @@ query = \
        where 
             e.program='delve-deep' and 
             e.radeg is not NULL and e.decdeg is not NULL and 
-            e.glat > 10 and 
+            abs(e.glat) > 10 and 
             e.exptime > 1. and 
             e.band in ('g','r','i','z') 
         order by e.expnum"""
