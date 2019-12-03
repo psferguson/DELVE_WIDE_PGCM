@@ -1,5 +1,16 @@
-#date=20191125
-#band=i
+# To run this script:
+#  source runAll.bash <band> <date>
+# where <band> is the filter band, and
+#       <date> is a string descriptor for this run 
+#              (e.g., the date in the form 20191127)
+# E.g.: 
+#  source runAll.bash i 20191127a
+
+# To run only certain sections of this script, go down to the section called
+#  "Logical parameters for running different sections of bash script:"
+# and edit the values of the following parameters to "true" (for
+# those sections you want to run) or "false" (for those sections you
+# want to skip).
 
 # Optional command line argument is for the filter band to be used.
 # If not given, assume all filter bands (u,g,r,i,z,Y)
@@ -53,10 +64,10 @@ STILTS_DIR=/usrdevel/dp0/dtucker/STILTS/latest
 ###############################################
 do_db_query="true"
 do_grab_refcat2="true"
-do_runConvert="true"
-do_concat="true"
-do_match="true"
-do_calc_zps="true"
+do_runConvert="false"
+do_concat="false"
+do_match="false"
+do_calc_zps="false"
 
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
@@ -68,13 +79,13 @@ do_calc_zps="true"
 if [ "$do_db_query" = "true" ] ; then
 
     echo 
-    echo DELVE_Calib_fileimgexp_query_fnal_Starlink2.py
+    echo DELVE_Calib_fileimgexp_query_fnal.py
     echo 
 
-    rm -f DELVE_Calib_fileimgexp_query_fnal_Starlink2.$date.log
+    rm -f DELVE_Calib_fileimgexp_query_fnal.$date.log
 
-    ../../bin/DELVE_Calib_fileimgexp_query_fnal_Starlink2.py \
-	> DELVE_Calib_fileimgexp_query_fnal_Starlink2.$date.log  2>&1
+    ../../bin/DELVE_Calib_fileimgexp_query_fnal.py \
+	> DELVE_Calib_fileimgexp_query_fnal.$date.log  2>&1
 
 fi
 
@@ -90,6 +101,7 @@ if [ "$do_grab_refcat2" = "true" ] ; then
     ../../bin/DELVE_grab_relevant_refcat2_data.py \
 	--inputFile DELVE_Calib_expimgfileinfo_fnal.csv \
 	--outputFile ATLAS_REFCAT_2.DELVE_DEEP_area.csv \
+	--verbose 1 \
 	> DELVE_grab_relevant_refcat2_data.$date.log  2>&1
 
 fi
@@ -128,6 +140,7 @@ if [ "$do_concat" = "true" ] ; then
 	    --inputFile DELVE_Calib_expimgfileinfo_fnal.csv \
 	    --outputFile rawData.DELVE_Calib_DEEP.$band.csv \
 	    --band $band \
+	    --catDirName ./Downloads \
 	    > DELVE_Calib_concat_se_objects_fnal.$date.$band.log
 
     done
