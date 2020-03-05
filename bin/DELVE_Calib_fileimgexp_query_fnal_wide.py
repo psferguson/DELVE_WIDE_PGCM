@@ -150,7 +150,8 @@ if not os.path.exists('Downloads'):
 for index, row in df_expimgfileinfo.iterrows():
     print row['EXPNUM'], row['FILEPATH']
     if os.path.exists(row['FILEPATH']):
-        cmd="""cp -p %s ./Downloads/""" % (row['FILEPATH'])
+#        cmd="""cp -p %s ./Downloads/""" % (row['FILEPATH']) # use this line to copy all files to user directory
+	cmd="""ln -s %s ./Downloads/""" % (row['FILEPATH']) # use this line to create symbolic links instead of copying files
         os.system(cmd)
     else:
         """WARNING:  %s does not exist!  Skipping...""" % (row['FILEPATH'])

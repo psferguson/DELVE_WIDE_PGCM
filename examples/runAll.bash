@@ -1,3 +1,4 @@
+# Edited on 200130 by PSF
 # To run this script:
 #  source runAll.bash <band> <date>
 # where <band> is the filter band, and
@@ -62,12 +63,12 @@ STILTS_DIR=/usrdevel/dp0/dtucker/STILTS/latest
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
 ###############################################
-do_db_query="true"
+do_db_query="false"
 do_grab_refcat2="true"
-do_runConvert="false"
-do_concat="false"
-do_match="false"
-do_calc_zps="false"
+do_runConvert="true"
+do_concat="true"
+do_match="true"
+do_calc_zps="true"
 
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
@@ -82,10 +83,10 @@ if [ "$do_db_query" = "true" ] ; then
     echo DELVE_Calib_fileimgexp_query_fnal.py
     echo 
 
-    rm -f DELVE_Calib_fileimgexp_query_fnal.$date.log
-
-    ../../bin/DELVE_Calib_fileimgexp_query_fnal.py \
-	> DELVE_Calib_fileimgexp_query_fnal.$date.log  2>&1
+    rm -f DELVE_Calib_fileimgexp_query_fnal_wide.$date.log
+# will need to change this 
+    ../../bin/DELVE_Calib_fileimgexp_query_fnal_wide.py \
+	> DELVE_Calib_fileimgexp_query_fnal_wide.$date.log  2>&1
 
 fi
 
