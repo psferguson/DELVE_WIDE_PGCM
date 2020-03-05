@@ -1,0 +1,1038 @@
+EXPNUM,EXPRA,EXPDEC,EXPTIME,AIRMASS,BAND,NITE,MJD_OBS,FIELD,OBJECT,PROGRAM
+175613,180.5,-21.2964,120.0,1.03,z,20130205,56329.3528474,RXJ1203_z_1_outrigger,RXJ1203,Setting the Scale: Determining the Absolute Mass Normalization and &
+187637,178.006,-21.8805,60.0,1.12,g,20130319,56371.2763901,,Field40,DECam Search for the Stellar Component of the Magellanic Leading Arm
+187638,178.006,-21.8805,60.0,1.12,r,20130319,56371.2774101,,Field40,DECam Search for the Stellar Component of the Magellanic Leading Arm
+187639,178.006,-21.8805,60.0,1.13,i,20130319,56371.2784296,,Field40,DECam Search for the Stellar Component of the Magellanic Leading Arm
+187640,178.006,-21.8805,60.0,1.13,z,20130319,56371.2794468,,Field40,DECam Search for the Stellar Component of the Magellanic Leading Arm
+187641,177.845,-21.9555,267.0,1.13,g,20130319,56371.2804705,,Field40,DECam Search for the Stellar Component of the Magellanic Leading Arm
+187642,177.845,-21.9549,267.0,1.14,g,20130319,56371.283888,,Field40,DECam Search for the Stellar Component of the Magellanic Leading Arm
+187643,177.846,-21.9544,267.0,1.16,g,20130319,56371.2873268,,Field40,DECam Search for the Stellar Component of the Magellanic Leading Arm
+187644,177.845,-21.9555,267.0,1.17,r,20130319,56371.2907515,,Field40,DECam Search for the Stellar Component of the Magellanic Leading Arm
+187645,177.845,-21.9549,267.0,1.18,r,20130319,56371.2941796,,Field40,DECam Search for the Stellar Component of the Magellanic Leading Arm
+187646,177.846,-21.9544,267.0,1.2,r,20130319,56371.2975972,,Field40,DECam Search for the Stellar Component of the Magellanic Leading Arm
+187647,177.845,-21.9555,333.0,1.21,i,20130319,56371.3010158,,Field40,DECam Search for the Stellar Component of the Magellanic Leading Arm
+187648,177.845,-21.9549,333.0,1.23,i,20130319,56371.3052016,,Field40,DECam Search for the Stellar Component of the Magellanic Leading Arm
+187649,177.846,-21.9544,333.0,1.25,i,20130319,56371.3094016,,Field40,DECam Search for the Stellar Component of the Magellanic Leading Arm
+187650,177.845,-21.9555,333.0,1.27,z,20130319,56371.3135903,,Field40,DECam Search for the Stellar Component of the Magellanic Leading Arm
+187651,177.845,-21.9549,333.0,1.3,z,20130319,56371.3177884,,Field40,DECam Search for the Stellar Component of the Magellanic Leading Arm
+187652,177.846,-21.9544,333.0,1.32,z,20130319,56371.3219908,,Field40,DECam Search for the Stellar Component of the Magellanic Leading Arm
+196234,179.876,-19.2652,38.0,1.1,g,20130412,56395.2052465,,J1159-19,The effect of the group environment on the formation of UCDs
+196235,179.932,-19.3214,38.0,1.1,g,20130412,56395.2060351,,J1159-19,The effect of the group environment on the formation of UCDs
+196236,179.932,-19.3775,38.0,1.1,g,20130412,56395.2068066,,J1159-19,The effect of the group environment on the formation of UCDs
+196237,179.876,-19.4336,38.0,1.11,g,20130412,56395.2075696,,J1159-19,The effect of the group environment on the formation of UCDs
+196238,179.819,-19.3775,38.0,1.11,g,20130412,56395.2083305,,J1159-19,The effect of the group environment on the formation of UCDs
+196239,179.819,-19.3214,38.0,1.11,g,20130412,56395.2091059,,J1159-19,The effect of the group environment on the formation of UCDs
+196246,179.876,-19.2652,38.0,1.12,i,20130412,56395.2137123,,J1159-19,The effect of the group environment on the formation of UCDs
+196247,179.932,-19.3214,38.0,1.13,i,20130412,56395.2144843,,J1159-19,The effect of the group environment on the formation of UCDs
+196248,179.932,-19.3775,38.0,1.13,i,20130412,56395.215262,,J1159-19,The effect of the group environment on the formation of UCDs
+196249,179.876,-19.4336,38.0,1.13,i,20130412,56395.2160399,,J1159-19,The effect of the group environment on the formation of UCDs
+196250,179.819,-19.3775,38.0,1.13,i,20130412,56395.2168226,,J1159-19,The effect of the group environment on the formation of UCDs
+196251,179.819,-19.3214,38.0,1.14,i,20130412,56395.2175946,,J1159-19,The effect of the group environment on the formation of UCDs
+196252,179.876,-19.2652,94.0,1.14,z,20130412,56395.2183936,,J1159-19,The effect of the group environment on the formation of UCDs
+196253,179.932,-19.3214,94.0,1.14,z,20130412,56395.2198202,,J1159-19,The effect of the group environment on the formation of UCDs
+196254,179.932,-19.3775,94.0,1.15,z,20130412,56395.2212566,,J1159-19,The effect of the group environment on the formation of UCDs
+196255,179.876,-19.4336,94.0,1.15,z,20130412,56395.2226737,,J1159-19,The effect of the group environment on the formation of UCDs
+196256,179.819,-19.3775,94.0,1.16,z,20130412,56395.2240904,,J1159-19,The effect of the group environment on the formation of UCDs
+196257,179.819,-19.3214,94.0,1.16,z,20130412,56395.2255158,,J1159-19,The effect of the group environment on the formation of UCDs
+196258,179.876,-19.2652,38.0,1.17,g,20130412,56395.2269284,,J1159-19,The effect of the group environment on the formation of UCDs
+196259,179.932,-19.3214,38.0,1.17,g,20130412,56395.2277066,,J1159-19,The effect of the group environment on the formation of UCDs
+196260,179.932,-19.3775,38.0,1.17,g,20130412,56395.2284718,,J1159-19,The effect of the group environment on the formation of UCDs
+196261,179.876,-19.4336,38.0,1.18,g,20130412,56395.2292476,,J1159-19,The effect of the group environment on the formation of UCDs
+196262,179.819,-19.3775,38.0,1.18,g,20130412,56395.2300354,,J1159-19,The effect of the group environment on the formation of UCDs
+196263,179.819,-19.3214,38.0,1.18,g,20130412,56395.2308118,,J1159-19,The effect of the group environment on the formation of UCDs
+196270,179.876,-19.2652,38.0,1.2,i,20130412,56395.2353459,,J1159-19,The effect of the group environment on the formation of UCDs
+196271,179.932,-19.3214,38.0,1.2,i,20130412,56395.2361319,,J1159-19,The effect of the group environment on the formation of UCDs
+196272,179.932,-19.3775,38.0,1.21,i,20130412,56395.2369093,,J1159-19,The effect of the group environment on the formation of UCDs
+196273,179.876,-19.4336,38.0,1.21,i,20130412,56395.2377001,,J1159-19,The effect of the group environment on the formation of UCDs
+196274,179.819,-19.3775,38.0,1.22,i,20130412,56395.2384798,,J1159-19,The effect of the group environment on the formation of UCDs
+196275,179.819,-19.3214,38.0,1.22,i,20130412,56395.2392532,,J1159-19,The effect of the group environment on the formation of UCDs
+196276,179.876,-19.2652,94.0,1.22,z,20130412,56395.2400243,,J1159-19,The effect of the group environment on the formation of UCDs
+196277,179.932,-19.3214,94.0,1.23,z,20130412,56395.2414469,,J1159-19,The effect of the group environment on the formation of UCDs
+196278,179.932,-19.3775,94.0,1.23,z,20130412,56395.2428675,,J1159-19,The effect of the group environment on the formation of UCDs
+196279,179.876,-19.4336,94.0,1.24,z,20130412,56395.2443029,,J1159-19,The effect of the group environment on the formation of UCDs
+196280,179.819,-19.3775,94.0,1.25,z,20130412,56395.2457265,,J1159-19,The effect of the group environment on the formation of UCDs
+196281,179.819,-19.3214,94.0,1.26,z,20130412,56395.2471595,,J1159-19,The effect of the group environment on the formation of UCDs
+196614,179.876,-19.2652,38.0,1.08,g,20130413,56396.0767277,,J1159-19,The effect of the group environment on the formation of UCDs
+196615,179.932,-19.3214,38.0,1.08,g,20130413,56396.0775271,,J1159-19,The effect of the group environment on the formation of UCDs
+196616,179.932,-19.3775,38.0,1.07,g,20130413,56396.0783148,,J1159-19,The effect of the group environment on the formation of UCDs
+196617,179.876,-19.4336,38.0,1.07,g,20130413,56396.0791074,,J1159-19,The effect of the group environment on the formation of UCDs
+196618,179.819,-19.3775,38.0,1.07,g,20130413,56396.0798864,,J1159-19,The effect of the group environment on the formation of UCDs
+196619,179.819,-19.3214,38.0,1.07,g,20130413,56396.0806622,,J1159-19,The effect of the group environment on the formation of UCDs
+196626,179.876,-19.2652,38.0,1.06,i,20130413,56396.085246,,J1159-19,The effect of the group environment on the formation of UCDs
+196627,179.932,-19.3214,38.0,1.06,i,20130413,56396.0860242,,J1159-19,The effect of the group environment on the formation of UCDs
+196628,179.932,-19.3775,38.0,1.06,i,20130413,56396.0868065,,J1159-19,The effect of the group environment on the formation of UCDs
+196629,179.876,-19.4336,38.0,1.06,i,20130413,56396.087574,,J1159-19,The effect of the group environment on the formation of UCDs
+196630,179.819,-19.3775,38.0,1.05,i,20130413,56396.0883412,,J1159-19,The effect of the group environment on the formation of UCDs
+196631,179.819,-19.3214,38.0,1.05,i,20130413,56396.0891317,,J1159-19,The effect of the group environment on the formation of UCDs
+196632,179.876,-19.2652,94.0,1.05,z,20130413,56396.0899094,,J1159-19,The effect of the group environment on the formation of UCDs
+196633,179.932,-19.3214,94.0,1.05,z,20130413,56396.091343,,J1159-19,The effect of the group environment on the formation of UCDs
+196634,179.932,-19.3775,94.0,1.05,z,20130413,56396.0927778,,J1159-19,The effect of the group environment on the formation of UCDs
+196635,179.876,-19.4336,94.0,1.05,z,20130413,56396.0942071,,J1159-19,The effect of the group environment on the formation of UCDs
+196636,179.819,-19.3775,94.0,1.04,z,20130413,56396.0956446,,J1159-19,The effect of the group environment on the formation of UCDs
+196637,179.819,-19.3214,94.0,1.04,z,20130413,56396.0970618,,J1159-19,The effect of the group environment on the formation of UCDs
+196638,179.876,-19.2652,38.0,1.04,g,20130413,56396.0984985,,J1159-19,The effect of the group environment on the formation of UCDs
+196639,179.932,-19.3214,38.0,1.04,g,20130413,56396.0992588,,J1159-19,The effect of the group environment on the formation of UCDs
+196640,179.932,-19.3775,38.0,1.04,g,20130413,56396.1000263,,J1159-19,The effect of the group environment on the formation of UCDs
+196641,179.876,-19.4336,38.0,1.04,g,20130413,56396.100813,,J1159-19,The effect of the group environment on the formation of UCDs
+196642,179.819,-19.3775,38.0,1.04,g,20130413,56396.1017687,,J1159-19,The effect of the group environment on the formation of UCDs
+196643,179.819,-19.3214,38.0,1.04,g,20130413,56396.1025616,,J1159-19,The effect of the group environment on the formation of UCDs
+196650,179.876,-19.2652,38.0,1.03,i,20130413,56396.1071459,,J1159-19,The effect of the group environment on the formation of UCDs
+196651,179.932,-19.3214,38.0,1.03,i,20130413,56396.1079234,,J1159-19,The effect of the group environment on the formation of UCDs
+196652,179.932,-19.3775,38.0,1.03,i,20130413,56396.1087164,,J1159-19,The effect of the group environment on the formation of UCDs
+196653,179.876,-19.4336,38.0,1.03,i,20130413,56396.1094831,,J1159-19,The effect of the group environment on the formation of UCDs
+196654,179.819,-19.3775,38.0,1.03,i,20130413,56396.1102654,,J1159-19,The effect of the group environment on the formation of UCDs
+196655,179.819,-19.3214,38.0,1.03,i,20130413,56396.11105,,J1159-19,The effect of the group environment on the formation of UCDs
+196656,179.876,-19.2652,94.0,1.03,z,20130413,56396.111842,,J1159-19,The effect of the group environment on the formation of UCDs
+196657,179.932,-19.3214,94.0,1.03,z,20130413,56396.1132726,,J1159-19,The effect of the group environment on the formation of UCDs
+196658,179.932,-19.3775,94.0,1.02,z,20130413,56396.1146885,,J1159-19,The effect of the group environment on the formation of UCDs
+196659,179.876,-19.4336,94.0,1.02,z,20130413,56396.1161238,,J1159-19,The effect of the group environment on the formation of UCDs
+196660,179.819,-19.3775,94.0,1.02,z,20130413,56396.11754,,J1159-19,The effect of the group environment on the formation of UCDs
+196661,179.819,-19.3214,94.0,1.02,z,20130413,56396.1189496,,J1159-19,The effect of the group environment on the formation of UCDs
+201813,170.15,-16.712,30.0,1.04,r,20130425,56408.0964789,5,4MAPv2,DECam Engineering
+201814,170.392,-16.712,30.0,1.04,r,20130425,56408.0971551,5,4MAPv2,DECam Engineering
+202413,174.69,-17.13,300.0,1.03,g,20130428,56411.0635329,,GGSS1135-16,Optical Imaging of Local Group Galaxy Candidates from the ALFALFA &
+202414,174.691,-17.1294,300.0,1.03,g,20130428,56411.0673535,,GGSS1135-16,Optical Imaging of Local Group Galaxy Candidates from the ALFALFA &
+202415,174.691,-17.1289,300.0,1.03,g,20130428,56411.07118,,GGSS1135-16,Optical Imaging of Local Group Galaxy Candidates from the ALFALFA &
+202416,174.69,-17.13,300.0,1.03,r,20130428,56411.0749886,,GGSS1135-16,Optical Imaging of Local Group Galaxy Candidates from the ALFALFA &
+202417,174.691,-17.1294,300.0,1.03,r,20130428,56411.0787916,,GGSS1135-16,Optical Imaging of Local Group Galaxy Candidates from the ALFALFA &
+202418,174.691,-17.1289,300.0,1.03,r,20130428,56411.0825925,,GGSS1135-16,Optical Imaging of Local Group Galaxy Candidates from the ALFALFA &
+202623,171.42,-22.766,300.0,1.01,g,20130429,56412.0518919,,GGSS1124-22,Optical Imaging of Local Group Galaxy Candidates from the ALFALFA &
+202624,171.421,-22.7654,300.0,1.01,g,20130429,56412.0556993,,GGSS1124-22,Optical Imaging of Local Group Galaxy Candidates from the ALFALFA &
+202625,171.421,-22.7649,300.0,1.01,g,20130429,56412.059507,,GGSS1124-22,Optical Imaging of Local Group Galaxy Candidates from the ALFALFA &
+202626,171.42,-22.766,300.0,1.01,r,20130429,56412.0634458,,GGSS1124-22,Optical Imaging of Local Group Galaxy Candidates from the ALFALFA &
+202627,171.421,-22.7654,300.0,1.01,r,20130429,56412.0676499,,GGSS1124-22,Optical Imaging of Local Group Galaxy Candidates from the ALFALFA &
+202628,171.421,-22.7649,300.0,1.01,r,20130429,56412.0714653,,GGSS1124-22,Optical Imaging of Local Group Galaxy Candidates from the ALFALFA &
+291499,170.64,-17.3576,30.0,1.12,g,20140310,56727.1317158,,,Extending the Orphan Stream with DECam
+291500,170.64,-17.3576,30.0,1.12,i,20140310,56727.1323992,,,Extending the Orphan Stream with DECam
+291501,170.653,-17.3411,30.0,1.11,i,20140310,56727.1330875,,,Extending the Orphan Stream with DECam
+291502,170.653,-17.3411,30.0,1.11,g,20140310,56727.1337582,,,Extending the Orphan Stream with DECam
+291503,172.285,-18.1726,30.0,1.12,g,20140310,56727.1344935,,,Extending the Orphan Stream with DECam
+291504,172.285,-18.1726,30.0,1.12,i,20140310,56727.1351827,,,Extending the Orphan Stream with DECam
+291505,172.298,-18.1561,30.0,1.11,i,20140310,56727.1358621,,,Extending the Orphan Stream with DECam
+291506,172.298,-18.1561,30.0,1.11,g,20140310,56727.1365441,,,Extending the Orphan Stream with DECam
+291507,170.64,-19.0084,30.0,1.09,g,20140310,56727.1372169,,,Extending the Orphan Stream with DECam
+291508,170.64,-19.0084,30.0,1.09,i,20140310,56727.1378957,,,Extending the Orphan Stream with DECam
+291509,170.653,-18.9919,30.0,1.09,i,20140310,56727.1385683,,,Extending the Orphan Stream with DECam
+291510,170.653,-18.9919,30.0,1.09,g,20140310,56727.1392429,,,Extending the Orphan Stream with DECam
+291535,170.687,-20.6593,30.0,1.05,g,20140310,56727.1566072,,,Extending the Orphan Stream with DECam
+291536,170.687,-20.6593,30.0,1.05,i,20140310,56727.1572815,,,Extending the Orphan Stream with DECam
+291537,170.7,-20.6428,30.0,1.05,i,20140310,56727.157983,,,Extending the Orphan Stream with DECam
+291538,170.7,-20.6428,30.0,1.05,g,20140310,56727.1586605,,,Extending the Orphan Stream with DECam
+291539,172.366,-19.8234,30.0,1.06,g,20140310,56727.1593822,,,Extending the Orphan Stream with DECam
+291540,172.366,-19.8234,30.0,1.05,i,20140310,56727.160067,,,Extending the Orphan Stream with DECam
+291541,172.378,-19.8069,30.0,1.05,i,20140310,56727.1607634,,,Extending the Orphan Stream with DECam
+291542,172.378,-19.8069,30.0,1.05,g,20140310,56727.1614512,,,Extending the Orphan Stream with DECam
+291559,170.687,-22.3101,30.0,1.02,g,20140310,56727.1740732,,,Extending the Orphan Stream with DECam
+291560,170.687,-22.3101,30.0,1.02,i,20140310,56727.1747634,,,Extending the Orphan Stream with DECam
+291561,170.7,-22.2936,30.0,1.02,i,20140310,56727.1754301,,,Extending the Orphan Stream with DECam
+291562,170.7,-22.2936,30.0,1.02,g,20140310,56727.1761303,,,Extending the Orphan Stream with DECam
+291563,172.366,-21.4743,30.0,1.03,g,20140310,56727.1768549,,,Extending the Orphan Stream with DECam
+291564,172.366,-21.4743,30.0,1.03,i,20140310,56727.1775297,,,Extending the Orphan Stream with DECam
+291565,172.378,-21.4578,30.0,1.03,i,20140310,56727.1782164,,,Extending the Orphan Stream with DECam
+291566,172.378,-21.4578,30.0,1.02,g,20140310,56727.1788972,,,Extending the Orphan Stream with DECam
+291567,175.886,-23.1251,30.0,1.03,g,20140310,56727.1796282,,,Extending the Orphan Stream with DECam
+291568,175.886,-23.1251,30.0,1.03,i,20140310,56727.1803231,,,Extending the Orphan Stream with DECam
+291569,175.899,-23.1086,30.0,1.03,i,20140310,56727.1809941,,,Extending the Orphan Stream with DECam
+291570,175.899,-23.1086,30.0,1.03,g,20140310,56727.1816729,,,Extending the Orphan Stream with DECam
+291571,174.168,-23.9609,30.0,1.02,g,20140310,56727.1823635,,,Extending the Orphan Stream with DECam
+291572,174.168,-23.9609,30.0,1.02,i,20140310,56727.1830527,,,Extending the Orphan Stream with DECam
+291573,174.18,-23.9444,30.0,1.02,i,20140310,56727.1837309,,,Extending the Orphan Stream with DECam
+291574,174.18,-23.9444,30.0,1.02,g,20140310,56727.1844115,,,Extending the Orphan Stream with DECam
+291575,172.449,-23.1251,30.0,1.02,g,20140310,56727.1850859,,,Extending the Orphan Stream with DECam
+291576,172.449,-23.1251,30.0,1.02,i,20140310,56727.1857695,,,Extending the Orphan Stream with DECam
+291577,172.462,-23.1086,30.0,1.01,i,20140310,56727.1864657,,,Extending the Orphan Stream with DECam
+291578,172.462,-23.1086,30.0,1.01,g,20140310,56727.1871477,,,Extending the Orphan Stream with DECam
+291579,170.731,-23.9609,30.0,1.01,g,20140310,56727.1878484,,,Extending the Orphan Stream with DECam
+291580,170.731,-23.9609,30.0,1.01,i,20140310,56727.1885298,,,Extending the Orphan Stream with DECam
+291581,170.743,-23.9444,30.0,1.01,i,20140310,56727.1892099,,,Extending the Orphan Stream with DECam
+291582,170.743,-23.9444,30.0,1.01,g,20140310,56727.1898948,,,Extending the Orphan Stream with DECam
+291611,172.449,-24.7759,30.0,1.0,g,20140310,56727.2109106,,,Extending the Orphan Stream with DECam
+291612,172.449,-24.7759,30.0,1.0,i,20140310,56727.2115955,,,Extending the Orphan Stream with DECam
+291613,172.462,-24.7594,30.0,1.0,i,20140310,56727.2122939,,,Extending the Orphan Stream with DECam
+291614,172.462,-24.7594,30.0,1.0,g,20140310,56727.2129815,,,Extending the Orphan Stream with DECam
+291619,175.886,-24.7759,30.0,1.0,g,20140310,56727.2164447,,,Extending the Orphan Stream with DECam
+291620,175.886,-24.7759,30.0,1.0,i,20140310,56727.2171269,,,Extending the Orphan Stream with DECam
+291621,175.899,-24.7594,30.0,1.0,i,20140310,56727.2177993,,,Extending the Orphan Stream with DECam
+291622,175.899,-24.7594,30.0,1.0,g,20140310,56727.2184689,,,Extending the Orphan Stream with DECam
+292495,180.0,-20.0,20.0,1.02,g,20140316,56733.2291403,,MoonAngle-20d-g20,DECam Engineering
+292496,180.0,-20.0,20.0,1.02,r,20140316,56733.2297029,,MoonAngle-20d-r20,DECam Engineering
+292497,180.0,-20.0,20.0,1.02,i,20140316,56733.2302723,,MoonAngle-20d-i20,DECam Engineering
+292499,180.0,-20.0,20.0,1.02,z,20140316,56733.231397,,MoonAngle-20d-z20,DECam Engineering
+301028,175.831,-18.7849,30.0,1.16,r,20140415,56763.2040961,,PMap20140415-O31,DECam Engineering
+314518,179.642,-20.7355,30.0,1.42,r,20140516,56794.1812304,,AMap20140516-035,DECam Engineering
+315031,174.729,-18.785,30.0,1.16,r,20140517,56795.1137884,,PMap20140516-O31,DECam Engineering
+318610,177.845,-21.9555,30.0,1.13,g,20140530,56808.0821924,,Field167,Survey of the MAgellanic Stellar History - SMASH
+318611,177.845,-21.9555,60.0,1.13,g,20140530,56808.0828835,,Field167,Survey of the MAgellanic Stellar History - SMASH
+318613,178.006,-21.8805,60.0,1.13,g,20140530,56808.0849393,,Field167,Survey of the MAgellanic Stellar History - SMASH
+318615,177.683,-22.0305,60.0,1.14,g,20140530,56808.0870021,,Field167,Survey of the MAgellanic Stellar History - SMASH
+318617,177.845,-21.9555,267.0,1.15,g,20140530,56808.0890602,,Field167,Survey of the MAgellanic Stellar History - SMASH
+318618,177.845,-21.9549,267.0,1.16,g,20140530,56808.0924996,,Field167,Survey of the MAgellanic Stellar History - SMASH
+318619,177.846,-21.9544,267.0,1.17,g,20140530,56808.0959307,,Field167,Survey of the MAgellanic Stellar History - SMASH
+406579,179.76,-20.73,30.0,1.41,z,20150204,57058.1859192,,AMAP20150104-020,DECam Engineering
+414598,170.256,-16.207,30.0,1.2,r,20150225,57079.1442201,orphan110r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414599,170.268,-16.1917,30.0,1.2,r,20150225,57079.1448866,orphan110r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414600,170.28,-16.1764,30.0,1.2,r,20150225,57079.1455478,orphan110r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414601,170.292,-16.1612,30.0,1.2,r,20150225,57079.1462036,orphan110r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414606,170.931,-17.834,30.0,1.18,r,20150225,57079.1493227,orphan109r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414607,170.943,-17.8187,30.0,1.18,r,20150225,57079.1499833,orphan109r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414608,170.955,-17.8034,30.0,1.18,r,20150225,57079.1506377,orphan109r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414609,170.967,-17.7882,30.0,1.17,r,20150225,57079.1512946,orphan109r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414662,171.619,-19.458,30.0,1.07,r,20150225,57079.1847709,orphan108r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414663,171.631,-19.4427,30.0,1.07,r,20150225,57079.1854212,orphan108r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414664,171.643,-19.4274,30.0,1.07,r,20150225,57079.1860882,orphan108r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414665,171.655,-19.4122,30.0,1.07,r,20150225,57079.1867558,orphan108r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414670,172.32,-21.079,30.0,1.06,r,20150225,57079.1897924,orphan107r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414671,172.332,-21.0637,30.0,1.06,r,20150225,57079.190473,orphan107r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414672,172.344,-21.0484,30.0,1.06,r,20150225,57079.1911318,orphan107r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414673,172.356,-21.0332,30.0,1.06,r,20150225,57079.1917865,orphan107r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414678,170.62,-21.079,30.0,1.05,r,20150225,57079.1948535,orphan19r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414679,170.632,-21.0637,30.0,1.04,r,20150225,57079.1955041,orphan19r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414680,170.644,-21.0484,30.0,1.04,r,20150225,57079.1961608,orphan19r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414681,170.656,-21.0332,30.0,1.04,r,20150225,57079.1968219,orphan19r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414718,171.337,-22.698,30.0,1.02,r,20150225,57079.2201811,orphan18r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414719,171.349,-22.6827,30.0,1.01,r,20150225,57079.2208319,orphan18r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414720,171.361,-22.6674,30.0,1.01,r,20150225,57079.2214933,orphan18r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414721,171.373,-22.6522,30.0,1.01,r,20150225,57079.2221491,orphan18r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414726,173.037,-22.698,30.0,1.02,r,20150225,57079.2251976,orphan106r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414727,173.049,-22.6827,30.0,1.01,r,20150225,57079.2258539,orphan106r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414728,173.061,-22.6674,30.0,1.01,r,20150225,57079.2265089,orphan106r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414729,173.073,-22.6522,30.0,1.01,r,20150225,57079.2271593,orphan106r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414734,173.772,-24.313,30.0,1.01,r,20150225,57079.23019,orphan105r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414735,173.784,-24.2977,30.0,1.01,r,20150225,57079.2308657,orphan105r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414736,173.796,-24.2824,30.0,1.01,r,20150225,57079.231516,orphan105r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414737,173.808,-24.2672,30.0,1.01,r,20150225,57079.2321833,orphan105r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414742,172.072,-24.313,30.0,1.01,r,20150225,57079.2352544,orphan17r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414743,172.084,-24.2977,30.0,1.01,r,20150225,57079.2359054,orphan17r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414744,172.096,-24.2824,30.0,1.01,r,20150225,57079.2365555,orphan17r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414745,172.108,-24.2672,30.0,1.01,r,20150225,57079.2372099,orphan17r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414750,170.372,-24.313,30.0,1.01,r,20150225,57079.2402748,orphan61r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414751,170.384,-24.2977,30.0,1.01,r,20150225,57079.2409383,orphan61r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414752,170.396,-24.2824,30.0,1.01,r,20150225,57079.2415973,orphan61r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+414753,170.408,-24.2672,30.0,1.01,r,20150225,57079.2422646,orphan61r,OrphanStream,Galactic Dark Matter properties with the Orphan stream
+417493,172.226,-21.5512,50.0,1.29,g,20150302,57084.1109258,,cand172-21g,DD: Confirmation of photometric redshift estimates of VHS galaxy &
+417494,172.226,-21.5512,50.0,1.29,r,20150302,57084.1118224,,cand172-21r,DD: Confirmation of photometric redshift estimates of VHS galaxy &
+417495,172.226,-21.5512,110.0,1.28,i,20150302,57084.1127359,,cand172-21i,DD: Confirmation of photometric redshift estimates of VHS galaxy &
+417496,172.226,-21.5512,100.0,1.27,z,20150302,57084.1143373,,cand172-21z,DD: Confirmation of photometric redshift estimates of VHS galaxy &
+417497,172.469,-21.2082,50.0,1.27,g,20150302,57084.115823,,cand172-21g,DD: Confirmation of photometric redshift estimates of VHS galaxy &
+417498,172.469,-21.2082,50.0,1.27,r,20150302,57084.1167336,,cand172-21r,DD: Confirmation of photometric redshift estimates of VHS galaxy &
+417499,172.469,-21.2082,110.0,1.26,i,20150302,57084.1176372,,cand172-21i,DD: Confirmation of photometric redshift estimates of VHS galaxy &
+417500,172.469,-21.2082,100.0,1.25,z,20150302,57084.1192261,,cand172-21z,DD: Confirmation of photometric redshift estimates of VHS galaxy &
+417501,172.299,-21.8692,110.0,1.24,i,20150302,57084.1206947,,cand172-21i,DD: Confirmation of photometric redshift estimates of VHS galaxy &
+417502,172.299,-21.8692,100.0,1.23,z,20150302,57084.1222829,,cand172-21z,DD: Confirmation of photometric redshift estimates of VHS galaxy &
+417503,172.004,-21.4292,110.0,1.22,i,20150302,57084.1237617,,cand172-21i,DD: Confirmation of photometric redshift estimates of VHS galaxy &
+417504,172.004,-21.4292,100.0,1.22,z,20150302,57084.1253495,,cand172-21z,DD: Confirmation of photometric redshift estimates of VHS galaxy &
+417505,172.411,-21.4862,110.0,1.21,i,20150302,57084.1268531,,cand172-21i,DD: Confirmation of photometric redshift estimates of VHS galaxy &
+417506,172.411,-21.4862,100.0,1.21,z,20150302,57084.1284486,,cand172-21z,DD: Confirmation of photometric redshift estimates of VHS galaxy &
+417507,172.168,-21.6922,110.0,1.19,i,20150302,57084.1299307,,cand172-21i,DD: Confirmation of photometric redshift estimates of VHS galaxy &
+417508,172.168,-21.6922,100.0,1.19,z,20150302,57084.1315287,,cand172-21z,DD: Confirmation of photometric redshift estimates of VHS galaxy &
+417509,172.175,-21.4452,110.0,1.18,i,20150302,57084.1330099,,cand172-21i,DD: Confirmation of photometric redshift estimates of VHS galaxy &
+417510,172.175,-21.4452,100.0,1.18,z,20150302,57084.1346095,,cand172-21z,DD: Confirmation of photometric redshift estimates of VHS galaxy &
+417511,172.226,-20.6512,110.0,1.18,i,20150302,57084.1360975,,cand172-21i,DD: Confirmation of photometric redshift estimates of VHS galaxy &
+417512,172.747,-22.0162,110.0,1.17,i,20150302,57084.1376842,,cand172-21i,DD: Confirmation of photometric redshift estimates of VHS galaxy &
+417513,171.688,-21.6122,110.0,1.15,i,20150302,57084.1393014,,cand172-21i,DD: Confirmation of photometric redshift estimates of VHS galaxy &
+418838,172.788,-20.7306,30.0,1.42,r,20150305,57087.3596661,,AMap20150305-076,DECam Engineering
+418839,173.176,-20.7305,30.0,1.41,r,20150305,57087.3603515,,AMap20150305-077,DECam Engineering
+418840,173.423,-20.7305,30.0,1.41,r,20150305,57087.3610116,,AMap20150305-078,DECam Engineering
+420283,170.687,-20.6593,30.0,1.05,g,20150309,57091.2528965,,,Mapping the Orphan Stream with DECam
+420284,170.687,-20.6593,30.0,1.05,i,20150309,57091.2535711,,,Mapping the Orphan Stream with DECam
+420285,170.7,-20.6428,30.0,1.05,i,20150309,57091.2542451,,,Mapping the Orphan Stream with DECam
+420286,170.7,-20.6428,30.0,1.05,g,20150309,57091.254924,,,Mapping the Orphan Stream with DECam
+420367,170.687,-22.3101,30.0,1.22,g,20150309,57091.3130434,,,Mapping the Orphan Stream with DECam
+420368,170.687,-22.3101,30.0,1.23,i,20150309,57091.3137263,,,Mapping the Orphan Stream with DECam
+420369,170.7,-22.2936,30.0,1.23,i,20150309,57091.3144262,,,Mapping the Orphan Stream with DECam
+420370,170.7,-22.2936,30.0,1.23,g,20150309,57091.3151114,,,Mapping the Orphan Stream with DECam
+420371,170.731,-23.9609,30.0,1.23,g,20150309,57091.3158036,,,Mapping the Orphan Stream with DECam
+420372,170.731,-23.9609,30.0,1.23,i,20150309,57091.316486,,,Mapping the Orphan Stream with DECam
+420373,170.743,-23.9444,30.0,1.23,i,20150309,57091.3171666,,,Mapping the Orphan Stream with DECam
+420374,170.743,-23.9444,30.0,1.24,g,20150309,57091.3178448,,,Mapping the Orphan Stream with DECam
+420387,172.449,-24.7759,30.0,1.25,g,20150309,57091.3266775,,,Mapping the Orphan Stream with DECam
+420388,172.449,-24.7759,30.0,1.26,i,20150309,57091.3273535,,,Mapping the Orphan Stream with DECam
+420389,172.462,-24.7594,30.0,1.26,i,20150309,57091.3280383,,,Mapping the Orphan Stream with DECam
+420390,172.462,-24.7594,30.0,1.26,g,20150309,57091.3287294,,,Mapping the Orphan Stream with DECam
+423353,172.569,-22.877,30.0,1.06,r,20150318,57100.2420647,,Field101,Survey of the MAgellanic Stellar History - SMASH
+423354,172.569,-22.877,60.0,1.06,g,20150318,57100.2427498,,Field101,Survey of the MAgellanic Stellar History - SMASH
+423355,172.569,-22.877,60.0,1.06,r,20150318,57100.2437748,,Field101,Survey of the MAgellanic Stellar History - SMASH
+423356,172.569,-22.877,60.0,1.06,i,20150318,57100.2447983,,Field101,Survey of the MAgellanic Stellar History - SMASH
+423357,172.569,-22.877,60.0,1.07,z,20150318,57100.2458167,,Field101,Survey of the MAgellanic Stellar History - SMASH
+423359,172.732,-22.802,60.0,1.07,g,20150318,57100.2478459,,Field101,Survey of the MAgellanic Stellar History - SMASH
+423360,172.732,-22.802,60.0,1.07,r,20150318,57100.2488912,,Field101,Survey of the MAgellanic Stellar History - SMASH
+423361,172.732,-22.802,60.0,1.07,i,20150318,57100.2499165,,Field101,Survey of the MAgellanic Stellar History - SMASH
+423362,172.732,-22.802,60.0,1.08,z,20150318,57100.2509467,,Field101,Survey of the MAgellanic Stellar History - SMASH
+423364,172.406,-22.952,60.0,1.08,g,20150318,57100.2529863,,Field101,Survey of the MAgellanic Stellar History - SMASH
+423365,172.406,-22.952,60.0,1.08,r,20150318,57100.2540135,,Field101,Survey of the MAgellanic Stellar History - SMASH
+423366,172.406,-22.952,60.0,1.09,i,20150318,57100.2550298,,Field101,Survey of the MAgellanic Stellar History - SMASH
+423367,172.406,-22.952,60.0,1.09,z,20150318,57100.2560581,,Field101,Survey of the MAgellanic Stellar History - SMASH
+423369,172.569,-22.877,267.0,1.09,g,20150318,57100.2581052,,Field101,Survey of the MAgellanic Stellar History - SMASH
+423370,172.57,-22.8764,267.0,1.1,g,20150318,57100.261515,,Field101,Survey of the MAgellanic Stellar History - SMASH
+423371,172.57,-22.8759,267.0,1.11,g,20150318,57100.2649223,,Field101,Survey of the MAgellanic Stellar History - SMASH
+423372,172.569,-22.877,267.0,1.12,r,20150318,57100.2683262,,Field101,Survey of the MAgellanic Stellar History - SMASH
+423373,172.57,-22.8764,267.0,1.13,r,20150318,57100.2717537,,Field101,Survey of the MAgellanic Stellar History - SMASH
+423374,172.57,-22.8759,267.0,1.15,r,20150318,57100.2751633,,Field101,Survey of the MAgellanic Stellar History - SMASH
+423375,172.569,-22.877,333.0,1.16,i,20150318,57100.2785772,,Field101,Survey of the MAgellanic Stellar History - SMASH
+423376,172.57,-22.8764,333.0,1.17,i,20150318,57100.2827573,,Field101,Survey of the MAgellanic Stellar History - SMASH
+423377,172.57,-22.8759,333.0,1.19,i,20150318,57100.2869415,,Field101,Survey of the MAgellanic Stellar History - SMASH
+423378,172.569,-22.877,333.0,1.21,z,20150318,57100.2911064,,Field101,Survey of the MAgellanic Stellar History - SMASH
+423379,172.57,-22.8764,333.0,1.23,z,20150318,57100.2952941,,Field101,Survey of the MAgellanic Stellar History - SMASH
+423380,172.57,-22.8759,333.0,1.25,z,20150318,57100.2994748,,Field101,Survey of the MAgellanic Stellar History - SMASH
+427214,180.29,-21.8482,30.0,1.03,r,20150401,57114.1328616,,AMap20150401-043,DECam Engineering
+534042,180.431,-21.9417,105.0,1.08,g,20160402,57481.1001944,R1203_g_0_outrigger,R1203,Setting the Scale: Determining the Absolute Mass Normalization and &
+550765,177.31,-18.413,125.0,1.05,g,20160630,57569.9559899,Cra2_g,Cra2,Mapping the star formation of the Sagittarius dwarf galaxy and &
+550766,177.322,-18.3977,125.0,1.05,g,20160630,57569.9577691,Cra2_g,Cra2,Mapping the star formation of the Sagittarius dwarf galaxy and &
+550767,177.334,-18.3824,125.0,1.06,g,20160630,57569.9595403,Cra2_g,Cra2,Mapping the star formation of the Sagittarius dwarf galaxy and &
+550768,177.346,-18.3672,125.0,1.06,g,20160630,57569.9613048,Cra2_g,Cra2,Mapping the star formation of the Sagittarius dwarf galaxy and &
+550769,177.31,-18.413,100.0,1.06,r,20160630,57569.9630863,Cra2_r,Cra2,Mapping the star formation of the Sagittarius dwarf galaxy and &
+550770,177.322,-18.3977,100.0,1.07,r,20160630,57569.9645851,Cra2_r,Cra2,Mapping the star formation of the Sagittarius dwarf galaxy and &
+550771,177.334,-18.3824,100.0,1.07,r,20160630,57569.9660762,Cra2_r,Cra2,Mapping the star formation of the Sagittarius dwarf galaxy and &
+550772,177.346,-18.3672,100.0,1.07,r,20160630,57569.9675691,Cra2_r,Cra2,Mapping the star formation of the Sagittarius dwarf galaxy and &
+582260,180.213,-19.6589,40.0,1.58,g,20161009,57670.8179,prenight,DomeFlat-g40,DES
+582261,180.213,-19.6589,40.0,1.58,g,20161009,57670.8186471,prenight,DomeFlat-g40,DES
+582262,180.213,-19.6589,40.0,1.58,g,20161009,57670.8193917,prenight,DomeFlat-g40,DES
+582263,180.213,-19.6589,40.0,1.58,g,20161009,57670.8201387,prenight,DomeFlat-g40,DES
+582264,180.213,-19.6589,40.0,1.58,g,20161009,57670.8208822,prenight,DomeFlat-g40,DES
+582265,180.213,-19.6589,40.0,1.58,g,20161009,57670.8216256,prenight,DomeFlat-g40,DES
+582266,180.213,-19.6589,40.0,1.58,g,20161009,57670.8223725,prenight,DomeFlat-g40,DES
+582267,180.213,-19.6589,40.0,1.58,g,20161009,57670.8231206,prenight,DomeFlat-g40,DES
+582268,180.213,-19.6589,40.0,1.58,g,20161009,57670.8238695,prenight,DomeFlat-g40,DES
+582269,180.213,-19.6589,40.0,1.58,g,20161009,57670.8246138,prenight,DomeFlat-g40,DES
+582270,180.213,-19.6589,40.0,1.58,g,20161009,57670.8253623,prenight,DomeFlat-g40,DES
+582271,180.213,-19.6589,11.0,1.58,r,20161009,57670.8261092,prenight,DomeFlat-r11,DES
+582272,180.213,-19.6589,11.0,1.58,r,20161009,57670.8265197,prenight,DomeFlat-r11,DES
+582273,180.213,-19.6589,11.0,1.58,r,20161009,57670.8269277,prenight,DomeFlat-r11,DES
+582274,180.213,-19.6589,11.0,1.58,r,20161009,57670.8273401,prenight,DomeFlat-r11,DES
+582275,180.213,-19.6589,11.0,1.58,r,20161009,57670.8277535,prenight,DomeFlat-r11,DES
+582276,180.213,-19.6589,11.0,1.58,r,20161009,57670.8281614,prenight,DomeFlat-r11,DES
+582277,180.213,-19.6589,11.0,1.58,r,20161009,57670.8285711,prenight,DomeFlat-r11,DES
+582278,180.213,-19.6589,11.0,1.58,r,20161009,57670.8289837,prenight,DomeFlat-r11,DES
+582279,180.213,-19.6589,11.0,1.58,r,20161009,57670.8293978,prenight,DomeFlat-r11,DES
+582280,180.213,-19.6589,11.0,1.58,r,20161009,57670.8298146,prenight,DomeFlat-r11,DES
+582281,180.213,-19.6589,11.0,1.58,r,20161009,57670.830226,prenight,DomeFlat-r11,DES
+582282,180.213,-19.6589,30.0,1.58,i,20161009,57670.8306369,prenight,DomeFlat-i30,DES
+582283,180.213,-19.6589,30.0,1.58,i,20161009,57670.8312709,prenight,DomeFlat-i30,DES
+582284,180.213,-19.6589,30.0,1.58,i,20161009,57670.8319125,prenight,DomeFlat-i30,DES
+582285,180.213,-19.6589,30.0,1.58,i,20161009,57670.8325423,prenight,DomeFlat-i30,DES
+582286,180.213,-19.6589,30.0,1.58,i,20161009,57670.8331692,prenight,DomeFlat-i30,DES
+582287,180.213,-19.6589,30.0,1.58,i,20161009,57670.8338027,prenight,DomeFlat-i30,DES
+582288,180.213,-19.6589,30.0,1.58,i,20161009,57670.8344327,prenight,DomeFlat-i30,DES
+582289,180.213,-19.6589,30.0,1.58,i,20161009,57670.8350634,prenight,DomeFlat-i30,DES
+582290,180.213,-19.6589,30.0,1.58,i,20161009,57670.8356937,prenight,DomeFlat-i30,DES
+582291,180.213,-19.6589,30.0,1.58,i,20161009,57670.8363311,prenight,DomeFlat-i30,DES
+582292,180.213,-19.6589,30.0,1.58,i,20161009,57670.8369677,prenight,DomeFlat-i30,DES
+582293,180.213,-19.6589,11.0,1.58,z,20161009,57670.8375989,prenight,DomeFlat-z11,DES
+582294,180.213,-19.6589,11.0,1.58,z,20161009,57670.8380083,prenight,DomeFlat-z11,DES
+582295,180.213,-19.6589,11.0,1.58,z,20161009,57670.8384266,prenight,DomeFlat-z11,DES
+582296,180.213,-19.6589,11.0,1.58,z,20161009,57670.8388399,prenight,DomeFlat-z11,DES
+582297,180.213,-19.6589,11.0,1.58,z,20161009,57670.8392565,prenight,DomeFlat-z11,DES
+582298,180.213,-19.6589,11.0,1.58,z,20161009,57670.8396727,prenight,DomeFlat-z11,DES
+582299,180.213,-19.6589,11.0,1.58,z,20161009,57670.8400872,prenight,DomeFlat-z11,DES
+582300,180.213,-19.6589,11.0,1.58,z,20161009,57670.8405015,prenight,DomeFlat-z11,DES
+582301,180.213,-19.6589,11.0,1.58,z,20161009,57670.8409169,prenight,DomeFlat-z11,DES
+582302,180.213,-19.6589,11.0,1.58,z,20161009,57670.8413285,prenight,DomeFlat-z11,DES
+582303,180.213,-19.6589,11.0,1.58,z,20161009,57670.841738,prenight,DomeFlat-z11,DES
+582304,180.213,-19.6589,11.0,1.58,z,20161009,57670.8421492,prenight,DomeFlat-z11,DES
+582305,180.213,-19.6589,11.0,1.58,z,20161009,57670.8425612,prenight,DomeFlat-z11,DES
+582306,180.213,-19.6589,11.0,1.58,z,20161009,57670.8429708,prenight,DomeFlat-z11,DES
+582307,180.213,-19.6589,11.0,1.58,z,20161009,57670.8433789,prenight,DomeFlat-z11,DES
+582308,180.213,-19.6589,11.0,1.58,z,20161009,57670.843786,prenight,DomeFlat-z11,DES
+582309,180.213,-19.6589,11.0,1.58,z,20161009,57670.8442102,prenight,DomeFlat-z11,DES
+582310,180.213,-19.6589,11.0,1.58,z,20161009,57670.8446239,prenight,DomeFlat-z11,DES
+582311,180.213,-19.6589,11.0,1.58,z,20161009,57670.8450317,prenight,DomeFlat-z11,DES
+582312,180.213,-19.6589,11.0,1.58,z,20161009,57670.8454432,prenight,DomeFlat-z11,DES
+582313,180.213,-19.6589,11.0,1.58,z,20161009,57670.8458525,prenight,DomeFlat-z11,DES
+619984,177.31,-18.3309,180.0,1.28,i,20170212,57797.1785728,,Crater_II,Magellanic Satellites Survey: The Search for Hierarchical &
+619985,177.328,-18.3142,180.0,1.27,i,20170212,57797.1809946,,Crater_II,Magellanic Satellites Survey: The Search for Hierarchical &
+620018,177.31,-18.3309,180.0,1.1,i,20170212,57797.2251889,,Crater_II,Magellanic Satellites Survey: The Search for Hierarchical &
+620019,177.328,-18.3142,180.0,1.09,i,20170212,57797.227622,,Crater_II,Magellanic Satellites Survey: The Search for Hierarchical &
+620052,177.31,-18.3309,180.0,1.03,i,20170212,57797.2719844,,Crater_II,Magellanic Satellites Survey: The Search for Hierarchical &
+620053,177.328,-18.3142,180.0,1.03,i,20170212,57797.2744172,,Crater_II,Magellanic Satellites Survey: The Search for Hierarchical &
+620078,177.31,-18.3309,180.0,1.03,i,20170212,57797.3091258,,Crater_II,Magellanic Satellites Survey: The Search for Hierarchical &
+620079,177.328,-18.3142,180.0,1.03,i,20170212,57797.3115405,,Crater_II,Magellanic Satellites Survey: The Search for Hierarchical &
+620110,177.31,-18.3309,180.0,1.1,i,20170212,57797.3570054,,Crater_II,Magellanic Satellites Survey: The Search for Hierarchical &
+620111,177.328,-18.3142,180.0,1.1,i,20170212,57797.359428,,Crater_II,Magellanic Satellites Survey: The Search for Hierarchical &
+620806,177.31,-18.3309,180.0,1.27,i,20170214,57799.1759031,,Crater_II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+620807,177.328,-18.3142,180.0,1.25,i,20170214,57799.1783376,,Crater_II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+620808,177.31,-18.3309,180.0,1.24,r,20170214,57799.1807409,,Crater_II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+620809,177.328,-18.3142,180.0,1.23,r,20170214,57799.1831625,,Crater_II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+620810,177.31,-18.3309,240.0,1.22,g,20170214,57799.185578,,Crater_II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+620811,177.328,-18.3142,240.0,1.21,g,20170214,57799.1886795,,Crater_II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+627645,177.845,-21.9555,60.0,1.39,g,20170308,57821.092937,,Cal Field 167,Survey of the MAgellanic Stellar History - SMASH
+627646,177.845,-21.9555,60.0,1.38,r,20170308,57821.0939602,,Cal Field 167,Survey of the MAgellanic Stellar History - SMASH
+627647,177.845,-21.9555,60.0,1.37,i,20170308,57821.0950032,,Cal Field 167,Survey of the MAgellanic Stellar History - SMASH
+627648,177.845,-21.9555,60.0,1.37,z,20170308,57821.09603,,Cal Field 167,Survey of the MAgellanic Stellar History - SMASH
+632266,177.31,-18.3309,180.0,2.12,g,20170319,57832.0082219,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632267,177.31,-18.3309,180.0,2.07,i,20170319,57832.0106382,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632268,177.297,-18.3475,180.0,2.02,g,20170319,57832.0130681,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632269,177.297,-18.3475,180.0,1.98,i,20170319,57832.0155054,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632270,177.323,-18.3475,180.0,1.94,g,20170319,57832.017926,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632271,177.323,-18.3475,180.0,1.9,i,20170319,57832.0203588,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632272,177.323,-18.3142,180.0,1.86,g,20170319,57832.0227739,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632273,177.323,-18.3142,180.0,1.82,i,20170319,57832.0252139,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632274,177.297,-18.3142,180.0,1.78,g,20170319,57832.0276165,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632275,177.297,-18.3142,180.0,1.75,i,20170319,57832.0300259,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632277,177.31,-18.3309,180.0,1.69,g,20170319,57832.034881,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632278,177.31,-18.3309,180.0,1.66,i,20170319,57832.037309,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632283,177.297,-18.3475,180.0,1.52,g,20170319,57832.0499645,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632284,177.297,-18.3475,180.0,1.5,i,20170319,57832.0523802,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632289,177.323,-18.3475,180.0,1.4,g,20170319,57832.0650526,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632290,177.323,-18.3475,180.0,1.38,i,20170319,57832.0674886,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632295,177.323,-18.3142,180.0,1.3,g,20170319,57832.0801342,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632296,177.323,-18.3142,180.0,1.28,i,20170319,57832.0825777,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632301,177.297,-18.3142,180.0,1.22,g,20170319,57832.0953017,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632302,177.297,-18.3142,180.0,1.21,i,20170319,57832.0977197,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632307,177.31,-18.3309,180.0,1.16,g,20170319,57832.1103926,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632308,177.31,-18.3309,180.0,1.15,i,20170319,57832.1128395,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632313,177.297,-18.3475,180.0,1.11,g,20170319,57832.1255267,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632314,177.297,-18.3475,180.0,1.1,i,20170319,57832.1279442,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632319,177.323,-18.3475,180.0,1.08,g,20170319,57832.140576,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632320,177.323,-18.3475,180.0,1.07,i,20170319,57832.1429982,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632325,177.323,-18.3142,180.0,1.05,g,20170319,57832.1556396,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632326,177.323,-18.3142,180.0,1.05,i,20170319,57832.1580583,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632330,177.297,-18.3142,180.0,1.03,g,20170319,57832.1682725,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632331,177.297,-18.3142,180.0,1.03,i,20170319,57832.1707025,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632344,177.31,-18.3309,180.0,1.02,g,20170319,57832.1819813,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632345,177.31,-18.3309,180.0,1.02,i,20170319,57832.1844171,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632346,177.297,-18.3475,180.0,1.02,g,20170319,57832.1868355,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632347,177.297,-18.3475,180.0,1.02,i,20170319,57832.1892696,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632348,177.323,-18.3475,180.0,1.02,g,20170319,57832.1916831,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632349,177.323,-18.3475,180.0,1.02,i,20170319,57832.1940969,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632350,177.323,-18.3142,180.0,1.02,g,20170319,57832.1965119,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632351,177.323,-18.3142,180.0,1.02,i,20170319,57832.1989259,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632352,177.297,-18.3142,180.0,1.02,g,20170319,57832.2013465,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632353,177.297,-18.3142,180.0,1.02,i,20170319,57832.2037634,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632354,177.31,-18.3309,180.0,1.02,g,20170319,57832.2061679,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632355,177.31,-18.3309,180.0,1.02,i,20170319,57832.2085751,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632356,177.297,-18.3475,180.0,1.03,g,20170319,57832.2109959,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632357,177.297,-18.3475,180.0,1.03,i,20170319,57832.2134117,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632358,177.323,-18.3475,180.0,1.03,g,20170319,57832.2158282,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632359,177.323,-18.3475,180.0,1.03,i,20170319,57832.2182408,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632360,177.323,-18.3142,180.0,1.03,g,20170319,57832.2206532,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632361,177.323,-18.3142,180.0,1.03,i,20170319,57832.2230609,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632362,177.297,-18.3142,180.0,1.04,g,20170319,57832.2254719,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632363,177.297,-18.3142,180.0,1.04,i,20170319,57832.227887,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632364,177.31,-18.3309,180.0,1.04,g,20170319,57832.2303137,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632365,177.31,-18.3309,180.0,1.04,i,20170319,57832.2327217,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632366,177.297,-18.3475,180.0,1.05,g,20170319,57832.2351345,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632367,177.297,-18.3475,180.0,1.05,i,20170319,57832.2375537,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632368,177.323,-18.3475,180.0,1.05,g,20170319,57832.239984,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632369,177.323,-18.3475,180.0,1.06,i,20170319,57832.2423975,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632370,177.323,-18.3142,180.0,1.06,g,20170319,57832.2448078,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632371,177.323,-18.3142,180.0,1.07,i,20170319,57832.2472221,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632372,177.297,-18.3142,180.0,1.07,g,20170319,57832.2496255,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632373,177.297,-18.3142,180.0,1.08,i,20170319,57832.2520428,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632374,177.31,-18.3309,180.0,1.08,g,20170319,57832.25446,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632375,177.31,-18.3309,180.0,1.09,i,20170319,57832.256877,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632376,177.297,-18.3475,180.0,1.09,g,20170319,57832.2593092,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632377,177.297,-18.3475,180.0,1.1,i,20170319,57832.2617289,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632378,177.323,-18.3475,180.0,1.11,g,20170319,57832.2641423,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632379,177.323,-18.3475,180.0,1.11,i,20170319,57832.2665619,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632380,177.323,-18.3142,180.0,1.12,g,20170319,57832.2689758,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632381,177.323,-18.3142,180.0,1.13,i,20170319,57832.2713998,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632382,177.297,-18.3142,180.0,1.13,g,20170319,57832.2738195,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632383,177.297,-18.3142,180.0,1.14,i,20170319,57832.2762317,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632384,177.31,-18.3309,180.0,1.15,g,20170319,57832.2786489,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632385,177.31,-18.3309,180.0,1.16,i,20170319,57832.2810577,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632386,177.297,-18.3475,180.0,1.17,g,20170319,57832.2834681,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632387,177.297,-18.3475,180.0,1.17,i,20170319,57832.2858818,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632388,177.323,-18.3475,180.0,1.18,g,20170319,57832.2882938,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632389,177.323,-18.3475,180.0,1.19,i,20170319,57832.290705,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632390,177.323,-18.3142,180.0,1.2,g,20170319,57832.2931146,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632391,177.323,-18.3142,180.0,1.21,i,20170319,57832.2955316,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632392,177.297,-18.3142,180.0,1.23,g,20170319,57832.2979482,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632393,177.297,-18.3142,180.0,1.24,i,20170319,57832.3003651,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632394,177.31,-18.3309,180.0,1.25,g,20170319,57832.302775,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632395,177.31,-18.3309,180.0,1.26,i,20170319,57832.3051822,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632396,177.297,-18.3475,180.0,1.27,g,20170319,57832.3075983,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632397,177.297,-18.3475,180.0,1.29,i,20170319,57832.3100207,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632398,177.323,-18.3475,180.0,1.3,g,20170319,57832.3124236,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632399,177.323,-18.3475,180.0,1.32,i,20170319,57832.3148368,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632400,177.323,-18.3142,180.0,1.33,g,20170319,57832.3172612,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632401,177.323,-18.3142,180.0,1.62,i,20170319,57832.3514253,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632402,177.297,-18.3142,180.0,1.65,g,20170319,57832.353848,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632403,177.297,-18.3142,180.0,1.76,i,20170319,57832.3622132,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632404,177.31,-18.3309,180.0,1.79,g,20170319,57832.3646352,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632405,177.31,-18.3309,180.0,1.82,i,20170319,57832.3670632,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632406,177.297,-18.3475,180.0,2.17,g,20170319,57832.3857578,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632526,177.31,-18.3309,180.0,2.09,g,20170320,57833.0066447,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632527,177.31,-18.3309,180.0,2.05,i,20170320,57833.0090578,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632528,177.297,-18.3475,180.0,2.0,g,20170320,57833.0114689,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632529,177.297,-18.3475,180.0,1.96,i,20170320,57833.013882,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632530,177.323,-18.3475,180.0,1.92,g,20170320,57833.0163034,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632531,177.323,-18.3475,180.0,1.88,i,20170320,57833.0187149,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632532,177.323,-18.3142,180.0,1.84,g,20170320,57833.0211472,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632533,177.323,-18.3142,180.0,1.8,i,20170320,57833.0235572,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632534,177.297,-18.3142,180.0,1.77,g,20170320,57833.025969,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632535,177.297,-18.3142,180.0,1.74,i,20170320,57833.0283887,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632537,177.31,-18.3309,180.0,1.67,g,20170320,57833.0332365,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632538,177.31,-18.3309,180.0,1.64,i,20170320,57833.0356457,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632543,177.297,-18.3475,180.0,1.51,g,20170320,57833.0483415,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632544,177.297,-18.3475,180.0,1.49,i,20170320,57833.0507699,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632549,177.323,-18.3475,180.0,1.39,g,20170320,57833.0634443,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632550,177.323,-18.3475,180.0,1.37,i,20170320,57833.0658798,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632555,177.323,-18.3142,180.0,1.29,g,20170320,57833.0790992,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632556,177.323,-18.3142,180.0,1.27,i,20170320,57833.0815291,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632561,177.297,-18.3142,180.0,1.21,g,20170320,57833.0950089,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632562,177.297,-18.3142,180.0,1.2,i,20170320,57833.097432,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632567,177.31,-18.3309,180.0,1.15,g,20170320,57833.1105736,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632568,177.31,-18.3309,180.0,1.14,i,20170320,57833.1130073,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632573,177.297,-18.3475,180.0,1.1,g,20170320,57833.1256598,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632574,177.297,-18.3475,180.0,1.1,i,20170320,57833.1280949,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632579,177.323,-18.3475,180.0,1.07,g,20170320,57833.1407669,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632580,177.323,-18.3475,180.0,1.07,i,20170320,57833.1432145,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632585,177.323,-18.3142,180.0,1.05,g,20170320,57833.1558636,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632586,177.323,-18.3142,180.0,1.04,i,20170320,57833.1582827,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632593,177.297,-18.3142,180.0,1.02,g,20170320,57833.1803842,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632594,177.297,-18.3142,180.0,1.02,i,20170320,57833.1828069,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632604,177.31,-18.3309,180.0,1.02,g,20170320,57833.1967081,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632605,177.31,-18.3309,180.0,1.02,i,20170320,57833.1991354,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632606,177.297,-18.3475,180.0,1.02,g,20170320,57833.2015582,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632607,177.297,-18.3475,180.0,1.02,i,20170320,57833.2039784,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632608,177.323,-18.3475,180.0,1.02,g,20170320,57833.2064012,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632609,177.323,-18.3475,180.0,1.03,i,20170320,57833.2088306,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632610,177.323,-18.3142,180.0,1.03,g,20170320,57833.2112484,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632611,177.323,-18.3142,180.0,1.03,i,20170320,57833.2136837,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632612,177.297,-18.3142,180.0,1.03,g,20170320,57833.2160921,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632613,177.297,-18.3142,180.0,1.03,i,20170320,57833.2185239,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632614,177.31,-18.3309,180.0,1.03,g,20170320,57833.2209509,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632615,177.31,-18.3309,180.0,1.04,i,20170320,57833.2233711,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632616,177.297,-18.3475,180.0,1.04,g,20170320,57833.2257804,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632617,177.297,-18.3475,180.0,1.04,i,20170320,57833.2281861,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632618,177.323,-18.3475,180.0,1.05,g,20170320,57833.2305999,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632619,177.323,-18.3475,180.0,1.05,i,20170320,57833.2330248,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632620,177.323,-18.3142,180.0,1.05,g,20170320,57833.2354387,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632621,177.323,-18.3142,180.0,1.06,i,20170320,57833.2378685,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632622,177.297,-18.3142,180.0,1.06,g,20170320,57833.2402753,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632623,177.297,-18.3142,180.0,1.06,i,20170320,57833.2427203,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632624,177.31,-18.3309,180.0,1.07,g,20170320,57833.2451266,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632625,177.31,-18.3309,180.0,1.07,i,20170320,57833.2475536,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632626,177.297,-18.3475,180.0,1.08,g,20170320,57833.2499843,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632627,177.297,-18.3475,180.0,1.08,i,20170320,57833.2524192,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632628,177.323,-18.3475,180.0,1.09,g,20170320,57833.2548459,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632629,177.323,-18.3475,180.0,1.09,i,20170320,57833.257281,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632630,177.323,-18.3142,180.0,1.1,g,20170320,57833.2596953,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632631,177.323,-18.3142,180.0,1.11,i,20170320,57833.262117,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632632,177.297,-18.3142,180.0,1.11,g,20170320,57833.2645291,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632633,177.297,-18.3142,180.0,1.12,i,20170320,57833.2669532,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632634,177.31,-18.3309,180.0,1.13,g,20170320,57833.2693782,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632635,177.31,-18.3309,180.0,1.14,i,20170320,57833.2717929,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632636,177.297,-18.3475,180.0,1.14,g,20170320,57833.2742016,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632637,177.297,-18.3475,180.0,1.15,i,20170320,57833.2766311,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632638,177.323,-18.3475,180.0,1.16,g,20170320,57833.279057,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632639,177.323,-18.3475,180.0,1.17,i,20170320,57833.2814708,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632640,177.323,-18.3142,180.0,1.18,g,20170320,57833.283887,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632641,177.323,-18.3142,180.0,1.19,i,20170320,57833.2862925,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632642,177.297,-18.3142,180.0,1.2,g,20170320,57833.288702,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632643,177.297,-18.3142,180.0,1.21,i,20170320,57833.2911338,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632644,177.31,-18.3309,180.0,1.22,g,20170320,57833.2935376,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632645,177.31,-18.3309,180.0,1.23,i,20170320,57833.2959626,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632646,177.297,-18.3475,180.0,1.24,g,20170320,57833.29838,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632647,177.297,-18.3475,180.0,1.25,i,20170320,57833.3008065,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632648,177.323,-18.3475,180.0,1.27,g,20170320,57833.3032144,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632649,177.323,-18.3475,180.0,1.28,i,20170320,57833.3056322,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632650,177.323,-18.3142,180.0,1.29,g,20170320,57833.3080381,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632651,177.323,-18.3142,180.0,1.31,i,20170320,57833.3104691,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632652,177.297,-18.3142,180.0,1.32,g,20170320,57833.3128761,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632653,177.297,-18.3142,180.0,1.34,i,20170320,57833.3152999,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632654,177.31,-18.3309,180.0,1.35,g,20170320,57833.3177267,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632655,177.31,-18.3309,180.0,1.37,i,20170320,57833.3201509,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632656,177.297,-18.3475,180.0,1.38,g,20170320,57833.3225575,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632657,177.297,-18.3475,180.0,1.4,i,20170320,57833.3249827,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632658,177.323,-18.3475,180.0,1.42,g,20170320,57833.3273821,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632659,177.323,-18.3475,180.0,1.44,i,20170320,57833.329815,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632660,177.323,-18.3142,180.0,1.46,g,20170320,57833.3322421,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632661,177.323,-18.3142,180.0,1.48,i,20170320,57833.3346869,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632662,177.297,-18.3142,180.0,1.5,g,20170320,57833.3371147,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632663,177.297,-18.3142,180.0,1.53,i,20170320,57833.3395441,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632664,177.31,-18.3309,180.0,1.55,g,20170320,57833.3419808,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632665,177.31,-18.3309,180.0,1.57,i,20170320,57833.3444056,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632666,177.297,-18.3475,180.0,1.6,g,20170320,57833.3468133,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632667,177.297,-18.3475,180.0,1.63,i,20170320,57833.3492188,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632668,177.323,-18.3475,180.0,1.65,g,20170320,57833.3516353,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632669,177.323,-18.3475,180.0,1.68,i,20170320,57833.3540476,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632670,177.323,-18.3142,180.0,1.71,g,20170320,57833.3564715,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632671,177.323,-18.3142,180.0,1.75,i,20170320,57833.358909,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632672,177.297,-18.3142,180.0,1.78,g,20170320,57833.3613264,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632673,177.297,-18.3142,180.0,1.82,i,20170320,57833.3637343,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632674,177.31,-18.3309,180.0,1.85,g,20170320,57833.3661712,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632675,177.31,-18.3309,180.0,1.89,i,20170320,57833.3685854,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632676,177.297,-18.3475,180.0,1.93,g,20170320,57833.3710109,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632677,177.297,-18.3475,180.0,1.97,i,20170320,57833.3734535,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632678,177.323,-18.3475,180.0,2.02,g,20170320,57833.3758698,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632679,177.323,-18.3475,180.0,2.07,i,20170320,57833.3782933,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632840,177.31,-18.3309,180.0,2.21,g,20170321,57833.998655,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632841,177.31,-18.3309,180.0,2.16,i,20170321,57834.0010604,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632842,177.297,-18.3475,180.0,2.11,g,20170321,57834.0034764,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632843,177.297,-18.3475,180.0,2.06,i,20170321,57834.0058873,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632844,177.323,-18.3475,180.0,2.01,g,20170321,57834.0083033,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632845,177.323,-18.3475,180.0,1.97,i,20170321,57834.010719,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632846,177.323,-18.3142,180.0,1.93,g,20170321,57834.0131216,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632847,177.323,-18.3142,180.0,1.89,i,20170321,57834.0155345,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632848,177.297,-18.3142,180.0,1.85,g,20170321,57834.0179453,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632849,177.297,-18.3142,180.0,1.81,i,20170321,57834.0203489,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632850,177.31,-18.3309,180.0,1.77,g,20170321,57834.0227733,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632851,177.31,-18.3309,180.0,1.74,i,20170321,57834.0251806,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632852,177.297,-18.3475,180.0,1.71,g,20170321,57834.0275987,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632853,177.297,-18.3475,180.0,1.68,i,20170321,57834.0300282,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632854,177.323,-18.3475,180.0,1.65,g,20170321,57834.0324508,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632855,177.323,-18.3475,180.0,1.62,i,20170321,57834.0348576,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632856,177.323,-18.3142,180.0,1.6,g,20170321,57834.0372668,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632857,177.323,-18.3142,180.0,1.57,i,20170321,57834.0396738,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632858,177.297,-18.3142,180.0,1.55,g,20170321,57834.0420788,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632859,177.297,-18.3142,180.0,1.52,i,20170321,57834.0444914,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632861,177.31,-18.3309,180.0,1.48,g,20170321,57834.0493567,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632862,177.31,-18.3309,180.0,1.46,i,20170321,57834.0517832,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632867,177.297,-18.3475,180.0,1.36,g,20170321,57834.064434,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632868,177.297,-18.3475,180.0,1.35,i,20170321,57834.0668594,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632873,177.323,-18.3475,180.0,1.27,g,20170321,57834.0795122,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632874,177.323,-18.3475,180.0,1.26,i,20170321,57834.0819475,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632879,177.323,-18.3142,180.0,1.19,g,20170321,57834.0957835,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632880,177.323,-18.3142,180.0,1.18,i,20170321,57834.098222,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632885,177.297,-18.3142,180.0,1.14,g,20170321,57834.1109183,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632886,177.297,-18.3142,180.0,1.13,i,20170321,57834.1133531,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632891,177.31,-18.3309,180.0,1.1,g,20170321,57834.1261481,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632892,177.31,-18.3309,180.0,1.09,i,20170321,57834.1285602,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632897,177.297,-18.3475,180.0,1.06,g,20170321,57834.1414111,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632898,177.297,-18.3475,180.0,1.06,i,20170321,57834.1438258,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632903,177.323,-18.3475,180.0,1.04,g,20170321,57834.1565304,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632904,177.323,-18.3475,180.0,1.04,i,20170321,57834.158969,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632909,177.323,-18.3142,180.0,1.03,g,20170321,57834.1716124,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632910,177.323,-18.3142,180.0,1.03,i,20170321,57834.174023,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632915,177.297,-18.3142,180.0,1.02,g,20170321,57834.1867041,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632916,177.297,-18.3142,180.0,1.02,i,20170321,57834.1891457,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632921,177.31,-18.3309,180.0,1.02,g,20170321,57834.2018216,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632922,177.31,-18.3309,180.0,1.02,i,20170321,57834.2042688,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632927,177.297,-18.3475,180.0,1.03,g,20170321,57834.2169741,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632928,177.297,-18.3475,180.0,1.04,i,20170321,57834.2194046,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632933,177.323,-18.3475,180.0,1.05,g,20170321,57834.2324473,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632934,177.323,-18.3475,180.0,1.06,i,20170321,57834.2348843,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632938,177.31,-18.3309,180.0,1.07,g,20170321,57834.2451604,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632939,177.31,-18.3309,180.0,1.08,i,20170321,57834.2475892,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632940,177.297,-18.3475,180.0,1.08,g,20170321,57834.2499906,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632941,177.297,-18.3475,180.0,1.09,i,20170321,57834.2524105,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632942,177.323,-18.3475,180.0,1.1,g,20170321,57834.254849,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632943,177.323,-18.3475,180.0,1.1,i,20170321,57834.2572821,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632944,177.323,-18.3142,180.0,1.11,g,20170321,57834.2597153,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632945,177.323,-18.3142,180.0,1.11,i,20170321,57834.2621353,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632946,177.297,-18.3142,180.0,1.12,g,20170321,57834.2645439,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632947,177.297,-18.3142,180.0,1.13,i,20170321,57834.266981,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632948,177.31,-18.3309,180.0,1.14,g,20170321,57834.2694032,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632949,177.31,-18.3309,180.0,1.14,i,20170321,57834.2718208,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632950,177.297,-18.3475,180.0,1.15,g,20170321,57834.2742454,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632951,177.297,-18.3475,180.0,1.16,i,20170321,57834.2766466,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632952,177.323,-18.3475,180.0,1.17,g,20170321,57834.2790516,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632953,177.323,-18.3475,180.0,1.18,i,20170321,57834.2814705,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632954,177.323,-18.3142,180.0,1.19,g,20170321,57834.2838783,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632955,177.323,-18.3142,180.0,1.2,i,20170321,57834.2863056,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632956,177.297,-18.3142,180.0,1.21,g,20170321,57834.2887139,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632957,177.297,-18.3142,180.0,1.22,i,20170321,57834.291132,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632958,177.31,-18.3309,180.0,1.23,g,20170321,57834.2935419,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632959,177.31,-18.3309,180.0,1.24,i,20170321,57834.2959782,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632960,177.297,-18.3475,180.0,1.25,g,20170321,57834.2984125,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632961,177.297,-18.3475,180.0,1.27,i,20170321,57834.3008376,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632962,177.323,-18.3475,180.0,1.28,g,20170321,57834.303265,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632963,177.323,-18.3475,180.0,1.29,i,20170321,57834.3056836,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632964,177.323,-18.3142,180.0,1.31,g,20170321,57834.3080866,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632965,177.323,-18.3142,180.0,1.32,i,20170321,57834.3105271,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632966,177.297,-18.3142,180.0,1.34,g,20170321,57834.3129364,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632967,177.297,-18.3142,180.0,1.35,i,20170321,57834.3153532,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632968,177.31,-18.3309,180.0,1.37,g,20170321,57834.3177858,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632969,177.31,-18.3309,180.0,1.39,i,20170321,57834.320222,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632970,177.297,-18.3475,180.0,1.41,g,20170321,57834.3226396,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632971,177.297,-18.3475,180.0,1.42,i,20170321,57834.3250826,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632972,177.323,-18.3475,180.0,1.44,g,20170321,57834.3275075,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632973,177.323,-18.3475,180.0,1.46,i,20170321,57834.3299433,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632974,177.323,-18.3142,180.0,1.48,g,20170321,57834.3323716,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632975,177.323,-18.3142,180.0,1.51,i,20170321,57834.3348169,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632976,177.297,-18.3142,180.0,1.53,g,20170321,57834.3372363,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632977,177.297,-18.3142,180.0,1.55,i,20170321,57834.3396781,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632978,177.31,-18.3309,180.0,1.58,g,20170321,57834.3420917,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632979,177.31,-18.3309,180.0,1.6,i,20170321,57834.3445153,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632980,177.297,-18.3475,180.0,1.63,g,20170321,57834.3469285,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632981,177.297,-18.3475,180.0,1.66,i,20170321,57834.3493525,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632982,177.323,-18.3475,180.0,1.69,g,20170321,57834.3517728,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632983,177.323,-18.3475,180.0,1.72,i,20170321,57834.3541766,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632984,177.323,-18.3142,180.0,1.75,g,20170321,57834.3565937,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632985,177.323,-18.3142,180.0,1.79,i,20170321,57834.3590156,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632986,177.297,-18.3142,180.0,1.82,g,20170321,57834.3614288,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632987,177.297,-18.3142,180.0,1.86,i,20170321,57834.3638569,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632988,177.31,-18.3309,180.0,1.9,g,20170321,57834.3662747,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632989,177.31,-18.3309,180.0,1.94,i,20170321,57834.3686949,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632990,177.297,-18.3475,180.0,1.98,g,20170321,57834.3711179,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632991,177.297,-18.3475,180.0,2.03,i,20170321,57834.3735512,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632992,177.323,-18.3475,180.0,2.08,g,20170321,57834.3759639,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+632993,177.323,-18.3475,180.0,2.13,i,20170321,57834.3783681,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+637270,177.31,-18.3309,180.0,1.39,g,20170404,57848.2829172,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+637271,177.31,-18.3309,180.0,1.41,i,20170404,57848.2853212,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+637272,177.297,-18.3475,180.0,1.43,g,20170404,57848.2877413,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+637273,177.297,-18.3475,180.0,1.45,i,20170404,57848.2901546,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+637274,177.323,-18.3475,180.0,1.47,g,20170404,57848.292572,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+637275,177.323,-18.3475,180.0,1.49,i,20170404,57848.2949757,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+637276,177.323,-18.3142,180.0,1.51,g,20170404,57848.2973844,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+637277,177.323,-18.3142,180.0,1.54,i,20170404,57848.2997957,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+637278,177.297,-18.3142,180.0,1.56,g,20170404,57848.3022055,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+637279,177.297,-18.3142,180.0,1.59,i,20170404,57848.3046255,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+637280,177.31,-18.3309,180.0,1.61,g,20170404,57848.3070404,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+637281,177.31,-18.3309,180.0,1.64,i,20170404,57848.3094641,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+637282,177.297,-18.3475,180.0,1.67,g,20170404,57848.311882,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+637283,177.297,-18.3475,180.0,1.7,i,20170404,57848.3143105,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+637284,177.323,-18.3475,180.0,1.73,g,20170404,57848.316726,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+637285,177.323,-18.3475,180.0,1.76,i,20170404,57848.319152,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+637286,177.323,-18.3142,180.0,1.8,g,20170404,57848.3215769,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+637287,177.323,-18.3142,180.0,1.83,i,20170404,57848.3240019,,Crater II,The large but very diffuse Milky Way satellite galaxy Crater II: &
+742571,170.329,-24.9993,120.0,1.07,r,20180504,58243.1165437,,Blind13A_19,HiTS: Post-Explosion Image Difference Templates for Better &
+742572,171.686,-22.9037,120.0,1.07,r,20180504,58243.1182733,,Blind13A_20,HiTS: Post-Explosion Image Difference Templates for Better &
+742573,174.312,-22.9038,120.0,1.06,r,20180504,58243.1200126,,Blind13A_21,HiTS: Post-Explosion Image Difference Templates for Better &
+742574,172.999,-24.9994,120.0,1.07,r,20180504,58243.1217452,,Blind13A_22,HiTS: Post-Explosion Image Difference Templates for Better &
+742579,175.67,-24.999,120.0,1.07,r,20180504,58243.1304987,,Blind13A_27,HiTS: Post-Explosion Image Difference Templates for Better &
+742580,176.941,-22.9033,120.0,1.07,r,20180504,58243.1322429,,Blind13A_28,HiTS: Post-Explosion Image Difference Templates for Better &
+742581,179.567,-22.9035,120.0,1.06,r,20180504,58243.1339686,,Blind13A_29,HiTS: Post-Explosion Image Difference Templates for Better &
+742582,178.34,-24.999,120.0,1.07,r,20180504,58243.1356795,,Blind13A_30,HiTS: Post-Explosion Image Difference Templates for Better &
+816679,177.969,-23.587,41.0,1.47,r,20190127,58511.1921132,DEROSITAS,Tile 6909 Pass 1,derositas
+816794,179.026,-16.655,80.0,1.05,z,20190127,58511.3780248,DEROSITAS,Tile 6922 Pass 1,derositas
+816795,178.037,-18.058,80.0,1.05,z,20190127,58511.3792896,DEROSITAS,Tile 6923 Pass 1,derositas
+817134,170.455,-19.4498,30.0,1.39,r,20190128,58512.183407,DEROSITAS,Tile 6962 Pass 2,derositas
+817135,171.363,-20.7945,30.0,1.39,r,20190128,58512.1841473,DEROSITAS,Tile 6949 Pass 2,derositas
+817136,172.226,-18.456,30.0,1.42,r,20190128,58512.1848694,DEROSITAS,Tile 6961 Pass 1,derositas
+817137,171.324,-17.106,30.0,1.41,r,20190128,58512.1855512,DEROSITAS,Tile 6976 Pass 1,derositas
+817138,170.433,-15.746,30.0,1.4,r,20190128,58512.1862716,DEROSITAS,Tile 6992 Pass 1,derositas
+817153,172.319,-15.596,30.0,1.37,r,20190128,58512.1965098,DEROSITAS,Tile 6975 Pass 1,derositas
+817154,173.226,-16.946,30.0,1.37,r,20190128,58512.1971928,DEROSITAS,Tile 6960 Pass 1,derositas
+817155,174.145,-18.287,30.0,1.37,r,20190128,58512.197868,DEROSITAS,Tile 6947 Pass 1,derositas
+817156,173.139,-19.797,30.0,1.33,r,20190128,58512.1985412,DEROSITAS,Tile 6948 Pass 1,derositas
+817157,174.065,-21.128,30.0,1.33,r,20190128,58512.1992102,DEROSITAS,Tile 6936 Pass 1,derositas
+817158,174.232,-21.906,30.0,1.33,r,20190128,58512.1999436,DEROSITAS,Tile 6926 Pass 2,derositas
+817159,172.821,-24.229,30.0,1.28,r,20190128,58512.2006241,DEROSITAS,Tile 6938 Pass 4,derositas
+817160,173.173,-24.3966,34.0,1.29,r,20190128,58512.2013104,DEROSITAS,Tile 6927 Pass 3,derositas
+817162,176.162,-24.5255,30.0,1.33,r,20190128,58512.2027304,DEROSITAS,Tile 6910 Pass 2,derositas
+817163,175.965,-23.766,30.0,1.32,r,20190128,58512.2034099,DEROSITAS,Tile 6917 Pass 1,derositas
+817164,177.184,-23.0399,30.0,1.34,r,20190128,58512.2040847,DEROSITAS,Tile 6909 Pass 2,derositas
+817165,176.023,-20.946,30.0,1.33,r,20190128,58512.204765,DEROSITAS,Tile 6925 Pass 1,derositas
+817166,175.077,-19.62,30.0,1.32,r,20190128,58512.2054698,DEROSITAS,Tile 6935 Pass 1,derositas
+817167,176.083,-18.149,30.0,1.35,r,20190128,58512.2061488,DEROSITAS,Tile 6934 Pass 1,derositas
+817168,177.035,-19.485,30.0,1.35,r,20190128,58512.2068374,DEROSITAS,Tile 6924 Pass 1,derositas
+817169,178.004,-20.821,30.0,1.35,r,20190128,58512.2075362,DEROSITAS,Tile 6915 Pass 1,derositas
+817170,178.202,-21.6145,30.0,1.35,r,20190128,58512.2082245,DEROSITAS,Tile 6908 Pass 2,derositas
+817171,179.206,-22.9713,30.0,1.35,r,20190128,58512.2088992,DEROSITAS,Tile 12974 Pass 2,derositas
+817172,178.185,-24.3635,30.0,1.32,r,20190128,58512.2095824,DEROSITAS,Tile 6903 Pass 2,derositas
+817178,180.228,-24.3632,30.0,1.33,r,20190128,58512.2137326,DEROSITAS,Tile 12992 Pass 2,derositas
+817179,180.212,-22.5604,30.0,1.34,r,20190128,58512.2144055,DEROSITAS,Tile 13012 Pass 3,derositas
+817181,180.0,-20.776,30.0,1.34,r,20190128,58512.2157731,DEROSITAS,Tile 12979 Pass 1,derositas
+817182,179.01,-19.411,30.0,1.33,r,20190128,58512.2164507,DEROSITAS,Tile 6914 Pass 1,derositas
+817183,178.037,-18.058,30.0,1.32,r,20190128,58512.2171307,DEROSITAS,Tile 6923 Pass 1,derositas
+817184,177.08,-16.709,30.0,1.31,r,20190128,58512.2178153,DEROSITAS,Tile 6933 Pass 1,derositas
+817185,176.138,-15.36,30.0,1.3,r,20190128,58512.2185401,DEROSITAS,Tile 6945 Pass 1,derositas
+817186,174.221,-15.465,30.0,1.27,r,20190128,58512.2192241,DEROSITAS,Tile 6959 Pass 1,derositas
+817198,178.066,-15.292,30.0,1.28,r,20190128,58512.2274298,DEROSITAS,Tile 6932 Pass 1,derositas
+817199,179.026,-16.655,30.0,1.28,r,20190128,58512.2281672,DEROSITAS,Tile 6922 Pass 1,derositas
+817200,180.0,-18.025,30.0,1.28,r,20190128,58512.2288516,DEROSITAS,Tile 6913 Pass 1,derositas
+817205,180.0,-15.268,30.0,1.28,r,20190128,58512.2322982,DEROSITAS,Tile 6921 Pass 1,derositas
+817213,179.206,-20.2283,30.0,1.21,r,20190128,58512.238117,DEROSITAS,Tile 12979 Pass 2,derositas
+817214,177.2,-21.2189,30.0,1.18,r,20190128,58512.2388202,DEROSITAS,Tile 6915 Pass 3,derositas
+817215,172.368,-19.2541,30.0,1.14,r,20190128,58512.2395646,DEROSITAS,Tile 6948 Pass 2,derositas
+817223,170.555,-16.5657,30.0,1.12,r,20190128,58512.2451904,DEROSITAS,Tile 6976 Pass 2,derositas
+817224,171.456,-17.9143,30.0,1.12,r,20190128,58512.245875,DEROSITAS,Tile 6961 Pass 2,derositas
+817225,171.307,-21.7298,30.0,1.1,r,20190128,58512.2465954,DEROSITAS,Tile 6949 Pass 3,derositas
+817226,173.25,-21.5236,30.0,1.11,r,20190128,58512.2472916,DEROSITAS,Tile 6936 Pass 3,derositas
+817227,174.192,-22.8473,30.0,1.11,r,20190128,58512.2479742,DEROSITAS,Tile 6926 Pass 3,derositas
+817228,175.153,-24.163,30.0,1.11,r,20190128,58512.2486667,DEROSITAS,Tile 6917 Pass 3,derositas
+817240,175.243,-20.4001,30.0,1.1,r,20190128,58512.2572501,DEROSITAS,Tile 6925 Pass 2,derositas
+817241,174.299,-19.075,30.0,1.1,r,20190128,58512.2579404,DEROSITAS,Tile 6935 Pass 2,derositas
+817242,173.369,-17.7429,30.0,1.1,r,20190128,58512.2586106,DEROSITAS,Tile 6947 Pass 2,derositas
+817243,172.451,-16.403,30.0,1.1,r,20190128,58512.259307,DEROSITAS,Tile 6960 Pass 2,derositas
+817244,171.544,-15.0542,30.0,1.1,r,20190128,58512.2599882,DEROSITAS,Tile 6975 Pass 2,derositas
+817250,171.544,-15.0542,30.0,1.09,r,20190128,58512.2641731,DEROSITAS,Tile 6975 Pass 2,derositas
+817251,172.451,-16.403,30.0,1.08,r,20190128,58512.2648669,DEROSITAS,Tile 6960 Pass 2,derositas
+817252,173.369,-17.7429,30.0,1.08,r,20190128,58512.2655398,DEROSITAS,Tile 6947 Pass 2,derositas
+817253,174.299,-19.075,30.0,1.08,r,20190128,58512.266224,DEROSITAS,Tile 6935 Pass 2,derositas
+817254,172.323,-20.1918,30.0,1.06,r,20190128,58512.2669206,DEROSITAS,Tile 6948 Pass 3,derositas
+817255,175.243,-20.4001,30.0,1.08,r,20190128,58512.2676064,DEROSITAS,Tile 6925 Pass 2,derositas
+817256,176.251,-18.9384,30.0,1.09,r,20190128,58512.2682826,DEROSITAS,Tile 6924 Pass 2,derositas
+817257,175.301,-17.6031,30.0,1.09,r,20190128,58512.2689799,DEROSITAS,Tile 6934 Pass 2,derositas
+817258,176.294,-16.1624,31.0,1.1,r,20190128,58512.2696824,DEROSITAS,Tile 6933 Pass 2,derositas
+817271,178.234,-16.1075,40.0,1.09,r,20190128,58512.2788682,DEROSITAS,Tile 6922 Pass 2,derositas
+817272,177.249,-17.5109,34.0,1.08,r,20190128,58512.2796716,DEROSITAS,Tile 6923 Pass 2,derositas
+817273,179.206,-17.4773,43.0,1.09,r,20190128,58512.2803916,DEROSITAS,Tile 6913 Pass 2,derositas
+817274,178.209,-19.8092,30.0,1.07,r,20190128,58512.2812344,DEROSITAS,Tile 6914 Pass 3,derositas
+817275,179.201,-21.1743,30.0,1.07,r,20190128,58512.2819132,DEROSITAS,Tile 12979 Pass 3,derositas
+817276,180.193,-18.8632,38.0,1.08,r,20190128,58512.2826106,DEROSITAS,Tile 13038 Pass 2,derositas
+817367,178.974,-24.911,56.0,1.03,z,20190128,58512.3806339,DEROSITAS,Tile 6903 Pass 1,derositas
+817371,178.992,-22.162,56.0,1.05,z,20190128,58512.3847821,DEROSITAS,Tile 6908 Pass 1,derositas
+817372,177.969,-23.587,56.0,1.05,z,20190128,58512.3857686,DEROSITAS,Tile 6909 Pass 1,derositas
+817674,170.507,-17.4989,30.0,1.32,r,20190129,58513.1936608,DEROSITAS,Tile 6976 Pass 3,derositas
+817685,173.411,-15.8607,32.0,1.34,r,20190129,58513.2012605,DEROSITAS,Tile 6959 Pass 3,derositas
+817687,175.332,-15.7571,39.0,1.36,r,20190129,58513.2028757,DEROSITAS,Tile 6945 Pass 3,derositas
+817688,176.275,-17.1065,34.0,1.36,r,20190129,58513.2036527,DEROSITAS,Tile 6933 Pass 3,derositas
+817689,175.275,-18.546,30.0,1.33,r,20190129,58513.2043654,DEROSITAS,Tile 6934 Pass 3,derositas
+817690,176.229,-19.8825,30.0,1.33,r,20190129,58513.20507,DEROSITAS,Tile 6924 Pass 3,derositas
+817691,173.25,-21.5236,30.0,1.26,r,20190129,58513.2057616,DEROSITAS,Tile 6936 Pass 3,derositas
+817692,175.153,-24.163,30.0,1.27,r,20190129,58513.2064424,DEROSITAS,Tile 6917 Pass 3,derositas
+817695,179.201,-23.9173,30.0,1.33,r,20190129,58513.2086179,DEROSITAS,Tile 12974 Pass 3,derositas
+817696,177.234,-18.4559,30.0,1.33,r,20190129,58513.2094349,DEROSITAS,Tile 6923 Pass 3,derositas
+817697,178.225,-17.0532,30.0,1.36,r,20190129,58513.2101255,DEROSITAS,Tile 6922 Pass 3,derositas
+817698,177.264,-15.6899,30.0,1.35,r,20190129,58513.2108025,DEROSITAS,Tile 6932 Pass 3,derositas
+817717,179.201,-18.4233,40.0,1.27,r,20190129,58513.2244277,DEROSITAS,Tile 6913 Pass 3,derositas
+817718,180.194,-19.8094,35.0,1.27,r,20190129,58513.225258,DEROSITAS,Tile 13038 Pass 3,derositas
+817720,180.212,-22.5604,30.0,1.25,r,20190129,58513.2267408,DEROSITAS,Tile 13012 Pass 3,derositas
+817795,178.209,-19.8092,35.0,1.05,r,20190129,58513.2902682,DEROSITAS,Tile 6914 Pass 3,derositas
+817796,179.202,-15.6663,30.0,1.07,r,20190129,58513.2910463,DEROSITAS,Tile 6921 Pass 3,derositas
+817867,179.01,-19.411,80.0,1.04,z,20190129,58513.3695987,DEROSITAS,Tile 6914 Pass 1,derositas
+817868,178.004,-20.821,80.0,1.04,z,20190129,58513.3708712,DEROSITAS,Tile 6915 Pass 1,derositas
+817869,175.965,-23.766,80.0,1.04,z,20190129,58513.372138,DEROSITAS,Tile 6917 Pass 1,derositas
+817872,178.037,-18.058,80.0,1.06,z,20190129,58513.3763202,DEROSITAS,Tile 6923 Pass 1,derositas
+817873,177.035,-19.485,47.0,1.06,z,20190129,58513.3775854,DEROSITAS,Tile 6924 Pass 1,derositas
+817874,176.023,-20.946,47.0,1.06,z,20190129,58513.3784563,DEROSITAS,Tile 6925 Pass 1,derositas
+817875,175.006,-22.451,47.0,1.06,z,20190129,58513.379328,DEROSITAS,Tile 6926 Pass 1,derositas
+817876,173.991,-24.001,47.0,1.06,z,20190129,58513.380197,DEROSITAS,Tile 6927 Pass 1,derositas
+817879,178.066,-15.292,94.0,1.08,z,20190129,58513.3842326,DEROSITAS,Tile 6932 Pass 1,derositas
+821609,180.0,-23.519,90.0,1.02,g,20190209,58524.3398027,DELVE,DELVE field: 12974-01-g,delve-wide
+822799,170.093,-24.472,90.0,1.01,g,20190212,58527.296857,DELVE,DELVE field: 6951-01-g,delve-wide
+822804,170.199,-21.536,90.0,1.03,g,20190212,58527.3037572,DELVE,DELVE field: 6963-01-g,delve-wide
+822805,172.128,-21.336,90.0,1.02,g,20190212,58527.3051302,DELVE,DELVE field: 6949-01-g,delve-wide
+822806,171.219,-19.99,90.0,1.03,g,20190212,58527.306503,DELVE,DELVE field: 6962-01-g,delve-wide
+822807,170.322,-18.636,90.0,1.04,g,20190212,58527.3078745,DELVE,DELVE field: 6977-01-g,delve-wide
+822808,172.226,-18.456,90.0,1.04,g,20190212,58527.3093448,DELVE,DELVE field: 6961-01-g,delve-wide
+822809,173.139,-19.797,90.0,1.03,g,20190212,58527.3107095,DELVE,DELVE field: 6948-01-g,delve-wide
+822810,174.065,-21.128,90.0,1.03,g,20190212,58527.3121015,DELVE,DELVE field: 6936-01-g,delve-wide
+822811,175.006,-22.451,90.0,1.02,g,20190212,58527.3134846,DELVE,DELVE field: 6926-01-g,delve-wide
+822812,175.965,-23.766,90.0,1.02,g,20190212,58527.3148627,DELVE,DELVE field: 6917-01-g,delve-wide
+822813,176.987,-22.267,90.0,1.02,g,20190212,58527.3162396,DELVE,DELVE field: 6916-01-g,delve-wide
+822814,177.969,-23.587,90.0,1.01,g,20190212,58527.3176191,DELVE,DELVE field: 6909-01-g,delve-wide
+822815,178.974,-24.911,90.0,1.01,g,20190212,58527.3189814,DELVE,DELVE field: 6903-01-g,delve-wide
+822828,178.004,-20.821,90.0,1.05,g,20190212,58527.3384341,DELVE,DELVE field: 6915-01-g,delve-wide
+822829,179.01,-19.411,90.0,1.05,g,20190212,58527.3398134,DELVE,DELVE field: 6914-01-g,delve-wide
+822830,180.0,-18.025,90.0,1.05,g,20190212,58527.3411806,DELVE,DELVE field: 6913-01-g,delve-wide
+822851,180.0,-15.268,90.0,1.13,g,20190212,58527.3704202,DELVE,DELVE field: 6921-01-g,delve-wide
+822852,179.026,-16.655,90.0,1.13,g,20190212,58527.3718495,DELVE,DELVE field: 6922-01-g,delve-wide
+822853,178.037,-18.058,90.0,1.14,g,20190212,58527.3732195,DELVE,DELVE field: 6923-01-g,delve-wide
+822854,177.035,-19.485,90.0,1.14,g,20190212,58527.3745858,DELVE,DELVE field: 6924-01-g,delve-wide
+822855,176.023,-20.946,90.0,1.15,g,20190212,58527.3759525,DELVE,DELVE field: 6925-01-g,delve-wide
+822856,175.077,-19.62,90.0,1.17,g,20190212,58527.3773302,DELVE,DELVE field: 6935-01-g,delve-wide
+822857,176.023,-20.946,90.0,1.16,i,20190212,58527.3786988,DELVE,DELVE field: 6925-01-i,delve-wide
+822858,178.004,-20.821,90.0,1.14,i,20190212,58527.3800733,DELVE,DELVE field: 6915-01-i,delve-wide
+822859,178.992,-22.162,90.0,1.13,i,20190212,58527.3814529,DELVE,DELVE field: 6908-01-i,delve-wide
+823166,172.024,-24.229,90.0,1.02,g,20190213,58528.246206,DELVE,DELVE field: 6938-01-g,delve-wide
+823170,173.991,-24.001,90.0,1.02,g,20190213,58528.2517113,DELVE,DELVE field: 6927-01-g,delve-wide
+823171,174.145,-18.287,90.0,1.03,g,20190213,58528.2536292,DELVE,DELVE field: 6947-01-g,delve-wide
+823172,173.226,-16.946,90.0,1.04,g,20190213,58528.2550024,DELVE,DELVE field: 6960-01-g,delve-wide
+823173,171.324,-17.106,90.0,1.03,g,20190213,58528.2563857,DELVE,DELVE field: 6976-01-g,delve-wide
+823174,170.433,-15.746,90.0,1.04,g,20190213,58528.2577451,DELVE,DELVE field: 6992-01-g,delve-wide
+823189,172.319,-15.596,90.0,1.03,g,20190213,58528.2785308,DELVE,DELVE field: 6975-01-g,delve-wide
+823190,174.221,-15.465,90.0,1.03,g,20190213,58528.2799017,DELVE,DELVE field: 6959-01-g,delve-wide
+823191,175.146,-16.81,90.0,1.03,g,20190213,58528.2812788,DELVE,DELVE field: 6946-01-g,delve-wide
+823192,176.083,-18.149,90.0,1.02,g,20190213,58528.2826462,DELVE,DELVE field: 6934-01-g,delve-wide
+823193,177.08,-16.709,90.0,1.03,g,20190213,58528.2840142,DELVE,DELVE field: 6933-01-g,delve-wide
+823194,176.138,-15.36,90.0,1.03,g,20190213,58528.2853821,DELVE,DELVE field: 6945-01-g,delve-wide
+823204,178.066,-15.292,90.0,1.04,g,20190213,58528.2994031,DELVE,DELVE field: 6932-01-g,delve-wide
+823916,174.221,-15.465,90.0,1.16,i,20190215,58530.1939151,DELVE,DELVE field: 6959-01-i,delve-wide
+823921,176.138,-15.36,90.0,1.16,i,20190215,58530.2010126,DELVE,DELVE field: 6945-01-i,delve-wide
+823922,177.08,-16.709,90.0,1.15,i,20190215,58530.2023764,DELVE,DELVE field: 6933-01-i,delve-wide
+823923,178.037,-18.058,90.0,1.15,i,20190215,58530.2037566,DELVE,DELVE field: 6923-01-i,delve-wide
+823924,177.035,-19.485,90.0,1.13,i,20190215,58530.2051267,DELVE,DELVE field: 6924-01-i,delve-wide
+823925,179.01,-19.411,90.0,1.14,i,20190215,58530.2064938,DELVE,DELVE field: 6914-01-i,delve-wide
+823926,180.0,-20.776,90.0,1.14,i,20190215,58530.2078714,DELVE,DELVE field: 12979-01-i,delve-wide
+823927,177.969,-23.587,90.0,1.11,i,20190215,58530.209241,DELVE,DELVE field: 6909-01-i,delve-wide
+823928,178.974,-24.911,90.0,1.11,i,20190215,58530.2106905,DELVE,DELVE field: 6903-01-i,delve-wide
+823931,180.0,-23.519,90.0,1.11,i,20190215,58530.2147975,DELVE,DELVE field: 12974-01-i,delve-wide
+823960,180.0,-15.268,90.0,1.03,i,20190215,58530.2858226,DELVE,DELVE field: 6921-01-i,delve-wide
+824340,170.433,-15.746,56.0,1.07,z,20190216,58531.2186884,DEROSITAS,Tile 6992 Pass 1,derositas
+824341,171.324,-17.106,56.0,1.06,z,20190216,58531.2196698,DEROSITAS,Tile 6976 Pass 1,derositas
+824342,170.322,-18.636,56.0,1.05,z,20190216,58531.2206514,DEROSITAS,Tile 6977 Pass 1,derositas
+824343,171.219,-19.99,56.0,1.05,z,20190216,58531.2216228,DEROSITAS,Tile 6962 Pass 1,derositas
+824344,172.226,-18.456,56.0,1.06,z,20190216,58531.2226127,DEROSITAS,Tile 6961 Pass 1,derositas
+824345,173.139,-19.797,56.0,1.05,z,20190216,58531.2235918,DEROSITAS,Tile 6948 Pass 1,derositas
+824346,174.145,-18.287,56.0,1.06,z,20190216,58531.2245844,DEROSITAS,Tile 6947 Pass 1,derositas
+824347,173.226,-16.946,56.0,1.06,z,20190216,58531.2255618,DEROSITAS,Tile 6960 Pass 1,derositas
+824348,172.319,-15.596,56.0,1.06,z,20190216,58531.2265513,DEROSITAS,Tile 6975 Pass 1,derositas
+824350,174.221,-15.465,56.0,1.07,z,20190216,58531.2285428,DEROSITAS,Tile 6959 Pass 1,derositas
+824351,175.146,-16.81,56.0,1.07,z,20190216,58531.2295318,DEROSITAS,Tile 6946 Pass 1,derositas
+824352,176.083,-18.149,56.0,1.06,z,20190216,58531.2305111,DEROSITAS,Tile 6934 Pass 1,derositas
+824353,176.251,-18.9384,72.0,1.06,z,20190216,58531.2314981,DEROSITAS,Tile 6924 Pass 2,derositas
+824354,175.077,-19.62,56.0,1.05,z,20190216,58531.2326715,DEROSITAS,Tile 6935 Pass 1,derositas
+824355,177.08,-16.709,56.0,1.07,z,20190216,58531.2336643,DEROSITAS,Tile 6933 Pass 1,derositas
+824356,176.138,-15.36,56.0,1.07,z,20190216,58531.2346492,DEROSITAS,Tile 6945 Pass 1,derositas
+824366,178.234,-16.1075,51.0,1.06,z,20190216,58531.2444769,DEROSITAS,Tile 6922 Pass 2,derositas
+824367,178.219,-18.8635,30.0,1.05,z,20190216,58531.245524,DEROSITAS,Tile 6914 Pass 2,derositas
+824368,180.0,-18.025,56.0,1.05,z,20190216,58531.2462246,DEROSITAS,Tile 6913 Pass 1,derositas
+824370,180.0,-15.268,56.0,1.06,z,20190216,58531.2481962,DEROSITAS,Tile 6921 Pass 1,derositas
+824472,177.217,-20.2739,30.0,1.09,r,20190216,58531.3456155,DEROSITAS,Tile 6915 Pass 3,derositas
+824808,171.544,-15.0542,60.0,1.11,z,20190217,58532.2011206,DEROSITAS,Tile 6975 Pass 2,derositas
+824809,170.555,-16.5657,67.0,1.09,z,20190217,58532.2021539,DEROSITAS,Tile 6976 Pass 2,derositas
+824811,170.455,-19.4498,66.0,1.07,z,20190217,58532.2043641,DEROSITAS,Tile 6962 Pass 2,derositas
+824812,171.456,-17.9143,58.0,1.08,z,20190217,58532.2054564,DEROSITAS,Tile 6961 Pass 2,derositas
+824813,172.368,-19.2541,56.0,1.08,z,20190217,58532.2066391,DEROSITAS,Tile 6948 Pass 2,derositas
+824814,173.369,-17.7429,56.0,1.09,z,20190217,58532.2076403,DEROSITAS,Tile 6947 Pass 2,derositas
+824826,172.451,-16.403,62.0,1.07,z,20190217,58532.2190198,DEROSITAS,Tile 6960 Pass 2,derositas
+824827,174.365,-16.2649,60.0,1.08,z,20190217,58532.2200668,DEROSITAS,Tile 6946 Pass 2,derositas
+824828,175.301,-17.6031,60.0,1.07,z,20190217,58532.2210935,DEROSITAS,Tile 6934 Pass 2,derositas
+824829,174.299,-19.075,70.0,1.06,z,20190217,58532.2221193,DEROSITAS,Tile 6935 Pass 2,derositas
+824830,176.229,-19.8825,60.0,1.06,z,20190217,58532.2232569,DEROSITAS,Tile 6924 Pass 3,derositas
+824831,178.209,-19.8092,30.0,1.07,z,20190217,58532.2242816,DEROSITAS,Tile 6914 Pass 3,derositas
+824832,178.225,-17.0532,47.0,1.08,z,20190217,58532.2249658,DEROSITAS,Tile 6922 Pass 3,derositas
+824833,176.294,-16.1624,57.0,1.08,z,20190217,58532.2258624,DEROSITAS,Tile 6933 Pass 2,derositas
+824834,177.264,-15.6899,43.0,1.08,z,20190217,58532.2268676,DEROSITAS,Tile 6932 Pass 3,derositas
+824850,180.177,-16.1072,60.0,1.06,z,20190217,58532.2434429,DEROSITAS,Tile 13070 Pass 2,derositas
+824851,179.206,-17.4773,55.0,1.05,z,20190217,58532.2444625,DEROSITAS,Tile 6913 Pass 2,derositas
+824852,180.193,-18.8632,46.0,1.05,z,20190217,58532.245574,DEROSITAS,Tile 13038 Pass 2,derositas
+825213,174.065,-21.128,80.0,1.17,z,20190218,58533.1757008,DEROSITAS,Tile 6936 Pass 1,derositas
+825214,172.024,-24.229,113.0,1.13,z,20190218,58533.1769856,DEROSITAS,Tile 6938 Pass 1,derositas
+825215,171.104,-22.886,113.0,1.12,z,20190218,58533.1786442,DEROSITAS,Tile 6950 Pass 1,derositas
+825216,170.093,-24.472,113.0,1.1,z,20190218,58533.1802962,DEROSITAS,Tile 6951 Pass 1,derositas
+825217,170.199,-21.536,94.0,1.11,z,20190218,58533.181939,DEROSITAS,Tile 6963 Pass 1,derositas
+825218,170.093,-24.472,94.0,1.09,z,20190218,58533.1833623,DEROSITAS,Tile 6951 Pass 1,derositas
+825219,180.0,-23.519,94.0,1.18,z,20190218,58533.1850767,DEROSITAS,Tile 12974 Pass 1,derositas
+825220,180.0,-20.776,94.0,1.19,z,20190218,58533.1865526,DEROSITAS,Tile 12979 Pass 1,derositas
+827016,178.992,-22.162,30.0,1.02,r,20190223,58538.2391254,DEROSITAS,Tile 6908 Pass 3,derositas
+827107,178.185,-24.3635,57.0,1.09,z,20190223,58538.3370246,DEROSITAS,Tile 6903 Pass 2,derositas
+827113,176.162,-24.5255,75.0,1.12,z,20190223,58538.3424398,DEROSITAS,Tile 6910 Pass 2,derositas
+827114,177.184,-23.0399,74.0,1.12,z,20190223,58538.3436273,DEROSITAS,Tile 6909 Pass 2,derositas
+827115,178.202,-21.6145,73.0,1.12,z,20190223,58538.3449397,DEROSITAS,Tile 6908 Pass 2,derositas
+827116,177.217,-20.2739,30.0,1.14,z,20190223,58538.3462702,DEROSITAS,Tile 6915 Pass 2,derositas
+827117,176.987,-22.267,81.0,1.14,z,20190223,58538.3470592,DEROSITAS,Tile 6916 Pass 2,derositas
+827118,175.188,-23.2202,30.0,1.16,z,20190223,58538.348432,DEROSITAS,Tile 6917 Pass 2,derositas
+827119,174.177,-24.7771,36.0,1.16,z,20190223,58538.3491179,DEROSITAS,Tile 6918 Pass 2,derositas
+827123,173.223,-23.4571,83.0,1.19,z,20190223,58538.3528008,DEROSITAS,Tile 6927 Pass 2,derositas
+827124,174.232,-21.906,80.0,1.2,z,20190223,58538.3540971,DEROSITAS,Tile 6926 Pass 2,derositas
+827125,175.243,-20.4001,83.0,1.2,z,20190223,58538.3554281,DEROSITAS,Tile 6925 Pass 2,derositas
+827126,173.293,-20.584,76.0,1.23,z,20190223,58538.356725,DEROSITAS,Tile 6936 Pass 2,derositas
+827127,171.264,-23.6876,54.0,1.24,z,20190223,58538.3581208,DEROSITAS,Tile 6938 Pass 2,derositas
+827130,170.346,-22.346,55.0,1.28,z,20190223,58538.3610418,DEROSITAS,Tile 6950 Pass 2,derositas
+827132,175.275,-18.546,45.0,1.24,z,20190223,58538.3633122,DEROSITAS,Tile 6934 Pass 3,derositas
+827133,176.275,-17.1065,48.0,1.25,z,20190223,58538.3641802,DEROSITAS,Tile 6933 Pass 3,derositas
+827134,174.266,-20.0164,53.0,1.26,z,20190223,58538.3651243,DEROSITAS,Tile 6935 Pass 3,derositas
+827136,172.323,-20.1918,60.0,1.3,z,20190223,58538.3669681,DEROSITAS,Tile 6948 Pass 3,derositas
+827137,173.333,-18.6827,52.0,1.3,z,20190223,58538.3681153,DEROSITAS,Tile 6947 Pass 3,derositas
+827138,174.337,-17.2064,48.0,1.3,z,20190223,58538.369038,DEROSITAS,Tile 6946 Pass 3,derositas
+827139,175.332,-15.7571,54.0,1.3,z,20190223,58538.3699462,DEROSITAS,Tile 6945 Pass 3,derositas
+827759,176.083,-18.149,90.0,1.03,i,20190225,58540.2773467,DELVE,DELVE field: 6934-01-i,delve-wide
+827760,175.146,-16.81,90.0,1.04,i,20190225,58540.2787316,DELVE,DELVE field: 6946-01-i,delve-wide
+827761,178.066,-15.292,90.0,1.04,i,20190225,58540.2802536,DELVE,DELVE field: 6932-01-i,delve-wide
+827804,179.026,-16.655,90.0,1.14,i,20190225,58540.3402538,DELVE,DELVE field: 6922-01-i,delve-wide
+827805,180.0,-18.025,90.0,1.13,i,20190225,58540.341617,DELVE,DELVE field: 6913-01-i,delve-wide
+827806,175.006,-22.451,90.0,1.16,i,20190225,58540.3430972,DELVE,DELVE field: 6926-01-i,delve-wide
+828861,176.294,-16.1624,90.0,1.07,g,20190228,58543.2947892,DELVE,DELVE field: 6933-02-g,delve-wide
+828862,175.301,-17.6031,90.0,1.07,g,20190228,58543.2961562,DELVE,DELVE field: 6934-02-g,delve-wide
+828863,174.299,-19.075,90.0,1.08,g,20190228,58543.2976568,DELVE,DELVE field: 6935-02-g,delve-wide
+828864,175.243,-20.4001,90.0,1.07,g,20190228,58543.2990253,DELVE,DELVE field: 6925-02-g,delve-wide
+828865,176.205,-21.7204,90.0,1.06,g,20190228,58543.3003957,DELVE,DELVE field: 6916-02-g,delve-wide
+828866,175.188,-23.2202,90.0,1.06,g,20190228,58543.3019126,DELVE,DELVE field: 6917-02-g,delve-wide
+828867,176.162,-24.5255,90.0,1.06,g,20190228,58543.303289,DELVE,DELVE field: 6910-02-g,delve-wide
+828868,174.177,-24.7771,90.0,1.07,g,20190228,58543.3046748,DELVE,DELVE field: 6918-02-g,delve-wide
+828874,178.185,-24.3635,90.0,1.07,g,20190228,58543.3130208,DELVE,DELVE field: 6903-02-g,delve-wide
+828875,177.184,-23.0399,90.0,1.08,g,20190228,58543.3143889,DELVE,DELVE field: 6909-02-g,delve-wide
+828876,179.206,-22.9713,90.0,1.07,g,20190228,58543.3157536,DELVE,DELVE field: 12974-02-g,delve-wide
+828877,180.228,-24.3632,90.0,1.06,g,20190228,58543.3171371,DELVE,DELVE field: 12992-02-g,delve-wide
+831597,178.413,-17.385,40.0,1.07,g,20190309,58552.1748172,PALS,PALS NEO CONFIRM C042611,NEO
+831598,178.472,-17.3505,40.0,1.07,r,20190309,58552.1756413,PALS,PALS NEO CONFIRM C042611,NEO
+831599,178.456,-17.4413,40.0,1.07,i,20190309,58552.1764307,PALS,PALS NEO CONFIRM C042611,NEO
+831600,178.464,-17.3949,40.0,1.07,g,20190309,58552.177231,PALS,PALS NEO CONFIRM C042611,NEO
+831601,178.434,-17.4197,40.0,1.07,r,20190309,58552.1780501,PALS,PALS NEO CONFIRM C042611,NEO
+831602,178.445,-17.4566,40.0,1.07,i,20190309,58552.1788499,PALS,PALS NEO CONFIRM C042611,NEO
+831603,178.437,-17.437,40.0,1.07,g,20190309,58552.1796465,PALS,PALS NEO CONFIRM C042611,NEO
+831604,178.433,-17.4447,40.0,1.06,r,20190309,58552.1804514,PALS,PALS NEO CONFIRM C042611,NEO
+831605,178.433,-17.4406,40.0,1.06,i,20190309,58552.1812516,PALS,PALS NEO CONFIRM C042611,NEO
+831606,178.42,-17.4649,40.0,1.06,g,20190309,58552.1820451,PALS,PALS NEO CONFIRM C042611,NEO
+831607,178.493,-17.4538,40.0,1.06,r,20190309,58552.1828272,PALS,PALS NEO CONFIRM C042611,NEO
+831608,178.485,-17.4247,40.0,1.06,i,20190309,58552.1836242,PALS,PALS NEO CONFIRM C042611,NEO
+831609,178.422,-17.4449,40.0,1.06,g,20190309,58552.1844159,PALS,PALS NEO CONFIRM C042611,NEO
+831610,178.45,-17.4458,40.0,1.06,r,20190309,58552.1852116,PALS,PALS NEO CONFIRM C042611,NEO
+831611,178.456,-17.4471,40.0,1.06,i,20190309,58552.1860174,PALS,PALS NEO CONFIRM C042611,NEO
+831612,178.413,-17.385,40.0,1.05,g,20190309,58552.1868202,PALS,PALS NEO CONFIRM C042611,NEO
+831613,178.472,-17.3505,40.0,1.05,r,20190309,58552.1876106,PALS,PALS NEO CONFIRM C042611,NEO
+831614,178.456,-17.4413,40.0,1.05,i,20190309,58552.1883971,PALS,PALS NEO CONFIRM C042611,NEO
+831615,178.464,-17.3949,40.0,1.05,g,20190309,58552.1891851,PALS,PALS NEO CONFIRM C042611,NEO
+831616,178.434,-17.4197,40.0,1.05,r,20190309,58552.1899836,PALS,PALS NEO CONFIRM C042611,NEO
+831617,178.445,-17.4566,40.0,1.05,i,20190309,58552.1907877,PALS,PALS NEO CONFIRM C042611,NEO
+831618,178.437,-17.437,40.0,1.05,g,20190309,58552.1915858,PALS,PALS NEO CONFIRM C042611,NEO
+831619,178.433,-17.4447,40.0,1.05,r,20190309,58552.192397,PALS,PALS NEO CONFIRM C042611,NEO
+831620,178.433,-17.4406,40.0,1.05,i,20190309,58552.1931966,PALS,PALS NEO CONFIRM C042611,NEO
+831621,178.42,-17.4649,40.0,1.04,g,20190309,58552.1939954,PALS,PALS NEO CONFIRM C042611,NEO
+831622,178.493,-17.4538,40.0,1.04,r,20190309,58552.1948056,PALS,PALS NEO CONFIRM C042611,NEO
+831623,178.485,-17.4247,40.0,1.04,i,20190309,58552.1956112,PALS,PALS NEO CONFIRM C042611,NEO
+831624,178.422,-17.4449,40.0,1.04,g,20190309,58552.1964037,PALS,PALS NEO CONFIRM C042611,NEO
+831625,178.45,-17.4458,40.0,1.04,r,20190309,58552.1972028,PALS,PALS NEO CONFIRM C042611,NEO
+831626,178.456,-17.4471,40.0,1.04,i,20190309,58552.1980021,PALS,PALS NEO CONFIRM C042611,NEO
+850350,177.881,-16.097,30.0,1.15,r,20190426,58600.0150253,ToO_2019-04-26-15:21:55_rz_int,ToO_2019-04-26-15:21:55_rz_integrated_40s_2am_2019-04-26-22:45:04_2&,GROWTH DECam GW
+850353,176.763,-15.0403,30.0,1.14,r,20190426,58600.0175159,ToO_2019-04-26-15:21:55_rz_int,ToO_2019-04-26-15:21:55_rz_integrated_40s_2am_2019-04-26-22:45:04_2&,GROWTH DECam GW
+850355,178.999,-17.1592,30.0,1.14,r,20190426,58600.0195046,ToO_2019-04-26-15:21:55_rz_int,ToO_2019-04-26-15:21:55_rz_integrated_40s_2am_2019-04-26-22:45:04_2&,GROWTH DECam GW
+850356,180.117,-18.2276,30.0,1.14,r,20190426,58600.0201878,ToO_2019-04-26-15:21:55_rz_int,ToO_2019-04-26-15:21:55_rz_integrated_40s_2am_2019-04-26-22:45:04_2&,GROWTH DECam GW
+850366,177.881,-16.097,50.0,1.11,z,20190426,58600.0309802,ToO_2019-04-26-15:21:55_rz_int,ToO_2019-04-26-15:21:55_rz_integrated_40s_2am_2019-04-26-22:45:04_2&,GROWTH DECam GW
+850369,176.763,-15.0403,50.0,1.1,z,20190426,58600.0341961,ToO_2019-04-26-15:21:55_rz_int,ToO_2019-04-26-15:21:55_rz_integrated_40s_2am_2019-04-26-22:45:04_2&,GROWTH DECam GW
+850371,178.999,-17.1592,50.0,1.09,z,20190426,58600.0366646,ToO_2019-04-26-15:21:55_rz_int,ToO_2019-04-26-15:21:55_rz_integrated_40s_2am_2019-04-26-22:45:04_2&,GROWTH DECam GW
+850372,180.117,-18.2276,50.0,1.09,z,20190426,58600.0375827,ToO_2019-04-26-15:21:55_rz_int,ToO_2019-04-26-15:21:55_rz_integrated_40s_2am_2019-04-26-22:45:04_2&,GROWTH DECam GW
+850376,180.544,-21.0573,30.0,1.07,r,20190426,58600.0422597,ToO_2019-04-26-15:21:55_rz_int,ToO_2019-04-26-15:21:55_rz_integrated_40s_2am_2019-04-26-22:45:04_2&,GROWTH DECam GW
+850383,177.19,-17.8188,30.0,1.05,r,20190426,58600.0523195,ToO_2019-04-26-15:21:55_rz_int,ToO_2019-04-26-15:21:55_rz_integrated_40s_2am_2019-04-26-22:45:04_2&,GROWTH DECam GW
+850385,178.308,-18.8912,30.0,1.05,r,20190426,58600.0542249,ToO_2019-04-26-15:21:55_rz_int,ToO_2019-04-26-15:21:55_rz_integrated_40s_2am_2019-04-26-22:45:04_2&,GROWTH DECam GW
+850388,179.426,-19.9706,30.0,1.04,r,20190426,58600.0597388,ToO_2019-04-26-15:21:55_rz_int,ToO_2019-04-26-15:21:55_rz_integrated_40s_2am_2019-04-26-22:45:04_2&,GROWTH DECam GW
+850390,176.072,-16.7528,30.0,1.04,r,20190426,58600.0622423,ToO_2019-04-26-15:21:55_rz_int,ToO_2019-04-26-15:21:55_rz_integrated_40s_2am_2019-04-26-22:45:04_2&,GROWTH DECam GW
+850402,180.544,-21.0573,50.0,1.02,z,20190426,58600.077098,ToO_2019-04-26-15:21:55_rz_int,ToO_2019-04-26-15:21:55_rz_integrated_40s_2am_2019-04-26-22:45:04_2&,GROWTH DECam GW
+850405,179.69,-15.4433,30.0,1.04,r,20190426,58600.0807428,ToO_2019-04-26-15:21:55_rz_int,ToO_2019-04-26-15:21:55_rz_integrated_40s_2am_2019-04-26-22:45:04_2&,GROWTH DECam GW
+850409,177.19,-17.8188,50.0,1.02,z,20190426,58600.0849199,ToO_2019-04-26-15:21:55_rz_int,ToO_2019-04-26-15:21:55_rz_integrated_40s_2am_2019-04-26-22:45:04_2&,GROWTH DECam GW
+850411,178.308,-18.8912,50.0,1.02,z,20190426,58600.0866064,ToO_2019-04-26-15:21:55_rz_int,ToO_2019-04-26-15:21:55_rz_integrated_40s_2am_2019-04-26-22:45:04_2&,GROWTH DECam GW
+850414,179.426,-19.9706,50.0,1.02,z,20190426,58600.0927071,ToO_2019-04-26-15:21:55_rz_int,ToO_2019-04-26-15:21:55_rz_integrated_40s_2am_2019-04-26-22:45:04_2&,GROWTH DECam GW
+850416,176.072,-16.7528,50.0,1.03,z,20190426,58600.0965575,ToO_2019-04-26-15:21:55_rz_int,ToO_2019-04-26-15:21:55_rz_integrated_40s_2am_2019-04-26-22:45:04_2&,GROWTH DECam GW
+850431,179.69,-15.4433,50.0,1.04,z,20190426,58600.1182054,ToO_2019-04-26-15:21:55_rz_int,ToO_2019-04-26-15:21:55_rz_integrated_40s_2am_2019-04-26-22:45:04_2&,GROWTH DECam GW
+850434,174.954,-15.6927,30.0,1.06,r,20190426,58600.1246033,ToO_2019-04-26-15:21:55_rz_int,ToO_2019-04-26-15:21:55_rz_integrated_40s_2am_2019-04-26-22:45:04_2&,GROWTH DECam GW
+850460,174.954,-15.6927,50.0,1.15,z,20190426,58600.1651946,ToO_2019-04-26-15:21:55_rz_int,ToO_2019-04-26-15:21:55_rz_integrated_40s_2am_2019-04-26-22:45:04_2&,GROWTH DECam GW
+859717,170.507,-17.4989,221.0,1.09,z,20190518,58622.0742508,DEROSITAS,Tile 6976 Pass 3,derositas
+859718,170.398,-20.3828,223.0,1.08,z,20190518,58622.0772111,DEROSITAS,Tile 6962 Pass 3,derositas
+859739,170.279,-23.2787,166.0,1.12,z,20190518,58622.0959229,DEROSITAS,Tile 6950 Pass 3,derositas
+859740,171.2,-24.6227,199.0,1.12,z,20190518,58622.0981818,DEROSITAS,Tile 6938 Pass 3,derositas
+862490,173.223,-23.4571,90.0,1.12,g,20190605,58640.0526287,DELVE,DELVE field: 6927-02-g,delve-wide
+862491,174.232,-21.906,90.0,1.12,g,20190605,58640.0539989,DELVE,DELVE field: 6926-02-g,delve-wide
+862492,173.293,-20.584,90.0,1.14,g,20190605,58640.0553794,DELVE,DELVE field: 6936-02-g,delve-wide
+862493,172.368,-19.2541,90.0,1.16,g,20190605,58640.0567448,DELVE,DELVE field: 6948-02-g,delve-wide
+862494,171.363,-20.7945,90.0,1.16,g,20190605,58640.0581204,DELVE,DELVE field: 6949-02-g,delve-wide
+862495,170.346,-22.346,90.0,1.17,g,20190605,58640.0595688,DELVE,DELVE field: 6950-02-g,delve-wide
+862496,171.264,-23.6876,90.0,1.16,g,20190605,58640.0609512,DELVE,DELVE field: 6938-02-g,delve-wide
+862504,173.223,-23.4571,90.0,1.19,g,20190605,58640.0720954,DELVE,DELVE field: 6927-02-g,delve-wide
+862506,172.368,-19.2541,90.0,1.23,g,20190605,58640.0748905,DELVE,DELVE field: 6948-02-g,delve-wide
+862507,176.251,-18.9384,90.0,1.19,g,20190605,58640.0763932,DELVE,DELVE field: 6924-02-g,delve-wide
+862508,177.217,-20.2739,90.0,1.18,g,20190605,58640.0777598,DELVE,DELVE field: 6915-02-g,delve-wide
+862509,179.206,-20.2283,90.0,1.16,g,20190605,58640.079125,DELVE,DELVE field: 12979-02-g,delve-wide
+862900,174.065,-21.128,90.0,1.01,i,20190606,58640.9604874,DELVE,DELVE field: 6936-01-i,delve-wide
+862920,170.455,-19.4498,90.0,1.05,g,20190606,58641.004475,DELVE,DELVE field: 6962-02-g,delve-wide
+862921,171.456,-17.9143,90.0,1.05,g,20190606,58641.0058425,DELVE,DELVE field: 6961-02-g,delve-wide
+862922,170.555,-16.5657,90.0,1.06,g,20190606,58641.0072135,DELVE,DELVE field: 6976-02-g,delve-wide
+862926,171.544,-15.0542,90.0,1.08,g,20190606,58641.0127247,DELVE,DELVE field: 6975-02-g,delve-wide
+862927,172.451,-16.403,90.0,1.07,g,20190606,58641.0141051,DELVE,DELVE field: 6960-02-g,delve-wide
+862928,173.369,-17.7429,90.0,1.06,g,20190606,58641.0154834,DELVE,DELVE field: 6947-02-g,delve-wide
+862929,174.365,-16.2649,90.0,1.06,g,20190606,58641.0168516,DELVE,DELVE field: 6946-02-g,delve-wide
+862930,177.249,-17.5109,90.0,1.05,g,20190606,58641.0182314,DELVE,DELVE field: 6923-02-g,delve-wide
+862931,178.219,-18.8635,90.0,1.04,g,20190606,58641.0195959,DELVE,DELVE field: 6914-02-g,delve-wide
+862932,179.206,-17.4773,90.0,1.04,g,20190606,58641.0209781,DELVE,DELVE field: 6913-02-g,delve-wide
+862933,178.234,-16.1075,90.0,1.06,g,20190606,58641.0223509,DELVE,DELVE field: 6922-02-g,delve-wide
+862934,180.177,-16.1072,90.0,1.05,g,20190606,58641.0237331,DELVE,DELVE field: 13070-02-g,delve-wide
+863368,170.433,-15.746,90.0,1.03,i,20190607,58641.9541526,DELVE,DELVE field: 6992-01-i,delve-wide
+863369,171.324,-17.106,90.0,1.03,i,20190607,58641.9555401,DELVE,DELVE field: 6976-01-i,delve-wide
+863370,172.226,-18.456,90.0,1.02,i,20190607,58641.9569101,DELVE,DELVE field: 6961-01-i,delve-wide
+863371,173.139,-19.797,90.0,1.02,i,20190607,58641.9583144,DELVE,DELVE field: 6948-01-i,delve-wide
+863372,174.145,-18.287,90.0,1.02,i,20190607,58641.9597068,DELVE,DELVE field: 6947-01-i,delve-wide
+863373,173.226,-16.946,90.0,1.03,i,20190607,58641.9611117,DELVE,DELVE field: 6960-01-i,delve-wide
+863846,175.077,-19.62,90.0,1.02,i,20190608,58642.9521979,DELVE,DELVE field: 6935-01-i,delve-wide
+863847,175.243,-20.4001,90.0,1.02,i,20190608,58642.9535796,DELVE,DELVE field: 6925-02-i,delve-wide
+863848,173.293,-20.584,90.0,1.02,i,20190608,58642.9549693,DELVE,DELVE field: 6936-02-i,delve-wide
+863849,174.232,-21.906,90.0,1.01,i,20190608,58642.9563343,DELVE,DELVE field: 6926-02-i,delve-wide
+863850,175.188,-23.2202,90.0,1.01,i,20190608,58642.9577166,DELVE,DELVE field: 6917-02-i,delve-wide
+863851,174.177,-24.7771,90.0,1.01,i,20190608,58642.9590787,DELVE,DELVE field: 6918-02-i,delve-wide
+865271,179.206,-22.9713,142.0,1.01,z,20190622,58656.9531344,DEROSITAS,Tile 12974 Pass 2,derositas
+865288,178.992,-22.162,30.0,1.03,r,20190622,58656.9815122,DEROSITAS,Tile 6908 Pass 3,derositas
+872519,171.2,-24.6227,99.0,1.17,z,20190711,58675.9661702,DEROSITAS,Tile 6938 Pass 3,derositas
+872520,173.173,-24.3966,136.0,1.16,z,20190711,58675.9676502,DEROSITAS,Tile 6927 Pass 3,derositas
+872524,175.153,-24.163,30.0,1.16,z,20190711,58675.9735606,DEROSITAS,Tile 6917 Pass 3,derositas
+872525,174.192,-22.8473,125.0,1.18,z,20190711,58675.9742328,DEROSITAS,Tile 6926 Pass 3,derositas
+872526,173.25,-21.5236,115.0,1.2,z,20190711,58675.9760307,DEROSITAS,Tile 6936 Pass 3,derositas
+872527,171.409,-18.8499,126.0,1.25,z,20190711,58675.9776949,DEROSITAS,Tile 6961 Pass 3,derositas
+872528,172.413,-17.3409,92.0,1.26,z,20190711,58675.9794831,DEROSITAS,Tile 6960 Pass 3,derositas
+872529,171.506,-15.99,100.0,1.29,z,20190711,58675.9808855,DEROSITAS,Tile 6975 Pass 3,derositas
+872537,175.213,-21.343,148.0,1.26,z,20190711,58675.9940444,DEROSITAS,Tile 6925 Pass 3,derositas
+872538,176.205,-21.7204,157.0,1.26,z,20190711,58675.9960849,DEROSITAS,Tile 6916 Pass 3,derositas
+872539,177.2,-21.2189,30.0,1.26,z,20190711,58675.9982223,DEROSITAS,Tile 6915 Pass 3,derositas
+872540,178.19,-22.5602,138.0,1.24,z,20190711,58675.9989003,DEROSITAS,Tile 6908 Pass 3,derositas
+872541,177.164,-23.9849,120.0,1.26,z,20190711,58676.0009196,DEROSITAS,Tile 6909 Pass 3,derositas
+872547,179.201,-23.9173,190.0,1.28,z,20190711,58676.0111013,DEROSITAS,Tile 12974 Pass 3,derositas
+872549,180.228,-24.3632,140.0,1.29,z,20190711,58676.0155967,DEROSITAS,Tile 12992 Pass 2,derositas
+873031,175.153,-24.163,30.0,1.11,z,20190713,58677.952973,DEROSITAS,Tile 6917 Pass 3,derositas
+873032,177.2,-21.2189,30.0,1.11,z,20190713,58677.9536961,DEROSITAS,Tile 6915 Pass 3,derositas
+873058,175.153,-24.163,30.0,1.23,z,20190713,58677.985263,DEROSITAS,Tile 6917 Pass 3,derositas
+873059,177.2,-21.2189,30.0,1.22,z,20190713,58677.9859515,DEROSITAS,Tile 6915 Pass 3,derositas
+916637,180.194,-19.8094,107.0,1.37,z,20191211,58829.3445406,DEROSITAS,Tile 13038 Pass 3,derositas
+925869,172.319,-15.596,90.0,1.05,i,20200121,58870.3719251,DELVE,DELVE field: 6975-01-i,delve-wide
+925870,172.451,-16.403,90.0,1.05,i,20200121,58870.3732991,DELVE,DELVE field: 6960-02-i,delve-wide
