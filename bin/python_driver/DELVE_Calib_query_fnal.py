@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 
+# example call
+#python ../../bin/python_driver/DELVE_Calib_query_fnal.py --RAmin 175 --RAmax 180 --Decmin -22 --Decmax -20 --BinIndex 69 --verbose 1 > test.log 2>&1
+
 # Initial setup...
 import numpy as np
 import pandas as pd
@@ -17,7 +20,7 @@ def filepaths_query(ramin,ramax,decmin,decmax,bin_index="999"):
     conn = db.connection
 
     print("Ra lim:", ramin,"-",ramax,)
-    print("dec lim:", decmin,"-",ramax,)
+    print("dec lim:", decmin,"-",decmax,)
 
     query = """ select f.expnum, f.ccdnum, e.band, f.path||'/'||f.filename||f.compression as filepath
                 from se_archive_info f, exposure e
@@ -119,11 +122,11 @@ def do_db_querys(args):
     #function to execute all of the database queries and
     #massage the data into its final form could add in a checker to see if files
     #already exist
-    ramin=args.RAmin
-    ramax=args.RAmax
-    decmin=args.Decmin
-    decmax=args.Decmax
-    bin_index=args.BinIndex
+    ramin=args['RaMin']
+    ramax=args['RaMax']
+    decmin=args['DecMin']
+    decmax=args['DecMax']
+    bin_index=args['BinIndex']
 
     df_filepaths=filepaths_query(ramin,ramax,decmin,decmax,bin_index)
     df_expinfo=exposures_query(ramin,ramax,decmin,decmax,bin_index)
@@ -172,7 +175,7 @@ def do_db_querys(args):
         print row['EXPNUM'], row['FILEPATH']
         if os.path.exists(row['FILEPATH']):
     #        cmd="""cp -p %s ./Downloads/""" % (row['FILEPATH']) # use this line to copy all files to user directory
-    	cmd="""ln -s %s ./Downloads/""" % (row['FILEPATH']) # use this line to create symbolic links instead of copying files
+    	    cmd="""ln -s %s ./Downloads/""" % (row['FILEPATH']) # use this line to create symbolic links instead of copying files
             os.system(cmd)
         else:
             """WARNING:  %s does not exist!  Skipping...""" % (row['FILEPATH'])
@@ -189,16 +192,16 @@ def main():
 
     """Create command line arguments"""
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument('--RAmin',
+    parser.add_argument('--RaMin',
                         help='Min of RA bin',
                         default='0')
-    parser.add_argument('--RAmax',
+    parser.add_argument('--RaMax',
                         help='Max of RA bin',
                         default='10')
-    parser.add_argument('--Decmin',
+    parser.add_argument('--DecMin',
                         help='Min of RA bin',
                         default='-10')
-    parser.add_argument('--Decmax',
+    parser.add_argument('--DecMax',
                         help='Max of Dec bin',
                         default='0')
     parser.add_argument('--BinIndex',
@@ -212,6 +215,8 @@ def main():
                         default=0, type=int)
     args = parser.parse_args()
 
+    if args.RAmin > args.RAmax: print "RA limits bad"
+    if args.Decmin > args.Decmax: print "DEC limits bad"
     # NEED TO ADD SANITY CHECKS ON FILTER BAND, ETC.
 
     if args.verbose > 0: print args
