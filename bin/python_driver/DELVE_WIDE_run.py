@@ -39,6 +39,24 @@ def run_params():
     return status
 
 def main():
+    """Create command line arguments"""
+    parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    parser.add_argument('--RaMin',
+                      help='Min of RA bin',
+                      default='178')
+    parser.add_argument('--RaMax',
+                      help='Max of RA bin',
+                      default='180')
+    parser.add_argument('--DecMin',
+                      help='Min of RA bin',
+                      default='-22')
+    parser.add_argument('--DecMax',
+                      help='Max of Dec bin',
+                      default='-20')
+    parser.add_argument('--BinIndex',
+                      help='Index number of the Bin',
+                      default='999')
+    args = vars(parser.parse_args()) # making it a python dict explicitly
     do_db_query=True
     do_grab_refcat2="true"
     do_runConvert="true"
@@ -57,11 +75,11 @@ def main():
     # Not all script sections below make use of BAND.
     print "band list is "  + bandList
 
-    args={"RaMin": "178",
-          "RaMax": "180",
-          "DecMin": "-22",
-          "DecMax": "-20",
-          "BinIndex": "69"}
+    # args={"RaMin": "178",
+    #       "RaMax": "180",
+    #       "DecMin": "-22",
+    #       "DecMax": "-20",
+    #       "BinIndex": "69"}
 
     # 1. we call DELVE_Calib_fileimgexp_query_fnal.py
     if do_db_query == True:
