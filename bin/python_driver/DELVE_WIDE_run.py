@@ -65,8 +65,8 @@ def main():
 
     # 1. we call DELVE_Calib_fileimgexp_query_fnal.py
     if do_db_query == True:
-            print "Doint database query"
-            os.remove("DELVE_query_wide"+prefix".log")
+            print "Doing database query"
+            #os.remove("DELVE_query_wide"+prefix".log")
             DELVE_query.do_db_querys(args)
     # 2. we call DELVE_grab_relevant_refcat2_data.py
 
