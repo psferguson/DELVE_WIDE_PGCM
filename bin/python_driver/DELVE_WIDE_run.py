@@ -18,25 +18,7 @@ import os
 current_dir=os.getcwd()
 sys.path.append(current_dir+"../../bin/python_driver/")
 import DELVE_Calib_query_fnal as DELVE_query
-
-def run_params():
-    #in the future this could just be a read in yaml and convert to args.
-
-    #using argparse because the rest of the code is written to use that.
-    import argparse
-    parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument('--inputFile', help='name of the input file', default='DELVE_Calib_expimgfileinfo_fnal_DEEP.csv')
-    parser.add_argument('--outputFile', help='name of the output file', default='rawData.DELVE_Calib_DEEP.csv')
-    parser.add_argument('--catDirName', help='name of the directory where the individual catalog files are located', default='.')
-    parser.add_argument('--band', help='name of the filter band', default='g')
-    parser.add_argument('--verbose', help='verbosity level of output to screen (0,1,2,...)', default=0, type=int)
-    args = parser.parse_args()
-
-    if args.verbose > 0: print args
-
-    status = DELVE_Calib_concat_se_objects_fnal(args)
-
-    return status
+import argparse
 
 def main():
     """Create command line arguments"""
