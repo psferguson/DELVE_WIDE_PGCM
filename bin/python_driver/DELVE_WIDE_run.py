@@ -1,11 +1,5 @@
 # Edited on 200324 by PSF
-# To run this script:
-#  source runAll.bash <band> <date>
-# where <band> is the filter band, and
-#       <date> is a string descriptor for this run
-#              (e.g., the date in the form 20191127)
-# E.g.:
-#  source runAll.bash i 20191127a
+# python ../../bin/python_driver/DELVE_WIDE_run.py --RaMin 178 --RaMax 180 --DecMin -22 --DecMax -20 --BinIndex 70
 
 # given ra dec limits and a bin number and yaml config file run the calibration for a subset of dataself.
 
