@@ -57,11 +57,11 @@ def main():
     # Not all script sections below make use of BAND.
     print "band list is "  + bandList
 
-    args={"RAmin": 178,
-          "RAmax": 180,
-          "Decmin": -22,
-          "DecMax": -20,
-          "BinIndex": 69}
+    args={"RaMin": "178",
+          "RaMax": "180",
+          "DecMin": "-22",
+          "DecMax": "-20",
+          "BinIndex": "69"}
 
     # 1. we call DELVE_Calib_fileimgexp_query_fnal.py
     if do_db_query == True:
