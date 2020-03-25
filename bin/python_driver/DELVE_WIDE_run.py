@@ -39,7 +39,7 @@ def run_params():
     return status
 
 def main():
-    do_db_query="true"
+    do_db_query=True
     do_grab_refcat2="true"
     do_runConvert="true"
     do_concat="true"
