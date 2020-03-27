@@ -9,7 +9,7 @@ import pandas as pd
 import archive.database
 import os
 import sys
-
+#need to add in support for config control of filenames
 ##################################
 
 def filepaths_query(ramin,ramax,decmin,decmax,bin_index="999"):
@@ -170,16 +170,20 @@ def do_db_querys(args):
     # (Could do symbolic links, but better to copy, just to
     #  be safe and not accidentally delete or modify the
     #  original files...)
-    ######  should update this to not use symbolic links but the filepaths csv.
-    for index, row in df_expimgfileinfo.iterrows():
-        print row['EXPNUM'], row['FILEPATH']
-        if os.path.exists(row['FILEPATH']):
-    #        cmd="""cp -p %s ./Downloads/""" % (row['FILEPATH']) # use this line to copy all files to user directory
-    	    cmd="""ln -s %s ./Downloads/""" % (row['FILEPATH']) # use this line to create symbolic links instead of copying files
-            os.system(cmd)
-        else:
-            """WARNING:  %s does not exist!  Skipping...""" % (row['FILEPATH'])
+    
+    #######################  ###########################
+    #   updated this to not use symbolic links but the filepaths csv.
+    ###########################################################
 
+    # for index, row in df_expimgfileinfo.iterrows():
+    #     print row['EXPNUM'], row['FILEPATH']
+    #     if os.path.exists(row['FILEPATH']):
+    # #        cmd="""cp -p %s ./Downloads/""" % (row['FILEPATH']) # use this line to copy all files to user directory
+    # 	    cmd="""ln -s %s ./Downloads/""" % (row['FILEPATH']) # use this line to create symbolic links instead of copying files
+    #         os.system(cmd)
+    #     else:
+    #         """WARNING:  %s does not exist!  Skipping...""" % (row['FILEPATH'])
+    #
 
     print 'Finis!'
 

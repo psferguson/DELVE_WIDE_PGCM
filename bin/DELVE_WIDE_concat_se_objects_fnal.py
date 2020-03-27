@@ -37,8 +37,8 @@ def DELVE_Calib_concat_se_objects_fnal(args):
 
     inputFile=args["concat_input_file"]
     outputFile=args["concat_output_file"]
-    catDirName=args.catDirName
-    band=args.band
+    catDirName=args["concat_dir_name"]
+    band=args["band"]
 
     df_input = pd.read_csv(inputFile)
 

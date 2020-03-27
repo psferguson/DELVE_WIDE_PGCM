@@ -5,11 +5,11 @@
     Generic version of tie_to_fgcm_stds.py.
 
     Example:
-    
+
     DELVE_tie_to_stds.py --help
 
     DELVE_tie_to_stds.py --inputFile inputFile.csv --outputFile outputFile.csv --verbose 2
-    
+
     """
 
 ##################################
@@ -21,26 +21,26 @@ def main():
 
     """Create command line arguments"""
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument('--inputFile', 
-                        help='name of the input CSV file', 
+    parser.add_argument('--inputFile',
+                        help='name of the input CSV file',
                         default='input.csv')
-    parser.add_argument('--outputFile', 
-                        help='name of the output CSV file', 
+    parser.add_argument('--outputFile',
+                        help='name of the output CSV file',
                         default='output.csv')
-    parser.add_argument('--band', 
-                        help='filter band to calibrate (u, g, r, i, z, or Y)', 
+    parser.add_argument('--band',
+                        help='filter band to calibrate (u, g, r, i, z, or Y)',
                         default='g')
-    parser.add_argument('--fluxObsColName', 
-                        help='name of the column in inputFile containing the observed flux', 
+    parser.add_argument('--fluxObsColName',
+                        help='name of the column in inputFile containing the observed flux',
                         default='FLUX_APER_08_2')
-    parser.add_argument('--fluxerrObsColName', 
-                        help='name of the column in inputFile containing the observed fluxerr', 
+    parser.add_argument('--fluxerrObsColName',
+                        help='name of the column in inputFile containing the observed fluxerr',
                         default='FLUXERR_APER_08_2')
-    parser.add_argument('--aggFieldColName', 
-                        help='name of the column in inputFile containing the field to aggregate', 
+    parser.add_argument('--aggFieldColName',
+                        help='name of the column in inputFile containing the field to aggregate',
                         default='FILENAME_2')
-    parser.add_argument('--verbose', 
-                        help='verbosity level of output to screen (0,1,2,...)', 
+    parser.add_argument('--verbose',
+                        help='verbosity level of output to screen (0,1,2,...)',
                         default=0, type=int)
     args = parser.parse_args()
 
@@ -52,22 +52,22 @@ def main():
 
 
 ##################################
-# 
+#
 
 def DELVE_tie_to_stds(args):
 
-    import numpy as np 
+    import numpy as np
     import os
     import sys
     import datetime
     import pandas as pd
 
-    inputFile = args.inputFile
-    outputFile = args.outputFile
-    band = args.band
-    fluxObsColName = args.fluxObsColName
-    fluxerrObsColName = args.fluxerrObsColName
-    aggFieldColName = args.aggFieldColName
+    inputFile = args["zps_input_file"]
+    outputFile = args["zps_output_file"]
+    band = args["band"]
+    fluxObsColName = args["fluxObsColName"]
+    fluxerrObsColName = args["fluxerrObsColName"]
+    aggFieldColName = args["aggFieldColName"]
 
     #magATLASColName = """%s_1""" % (band.upper())
     #magerrATLASColName = """D%s_1""" % (band.upper())
@@ -103,7 +103,7 @@ def DELVE_tie_to_stds(args):
         dataFrame['gerr_des'] = dataFrame['DG_1']  # temporary
         magStdColName = 'g_des'
         magerrStdColName = 'gerr_des'
-        mask1 = ( (dataFrame['G_1']-dataFrame['R_1']) > -0.2) 
+        mask1 = ( (dataFrame['G_1']-dataFrame['R_1']) > -0.2)
         mask2 = ( (dataFrame['G_1']-dataFrame['R_1']) <= 1.2)
         mask = (mask1 & mask2)
         dataFrame = dataFrame[mask].copy()
@@ -113,7 +113,7 @@ def DELVE_tie_to_stds(args):
         dataFrame['rerr_des'] = dataFrame['DR_1']  # temporary
         magStdColName = 'r_des'
         magerrStdColName = 'rerr_des'
-        mask1 = ( (dataFrame['G_1']-dataFrame['R_1']) > -0.2) 
+        mask1 = ( (dataFrame['G_1']-dataFrame['R_1']) > -0.2)
         mask2 = ( (dataFrame['G_1']-dataFrame['R_1']) <= 1.2)
         mask = (mask1 & mask2)
         dataFrame = dataFrame[mask].copy()
@@ -123,7 +123,7 @@ def DELVE_tie_to_stds(args):
         dataFrame['ierr_des'] = dataFrame['DI_1']  # temporary
         magStdColName = 'i_des'
         magerrStdColName = 'ierr_des'
-        mask1 = ( (dataFrame['I_1']-dataFrame['Z_1']) > -0.2) 
+        mask1 = ( (dataFrame['I_1']-dataFrame['Z_1']) > -0.2)
         mask2 = ( (dataFrame['I_1']-dataFrame['Z_1']) <= 0.3)
         mask = (mask1 & mask2)
         dataFrame = dataFrame[mask].copy()
@@ -133,7 +133,7 @@ def DELVE_tie_to_stds(args):
         dataFrame['zerr_des'] = dataFrame['DZ_1']  # temporary
         magStdColName = 'z_des'
         magerrStdColName = 'zerr_des'
-        mask1 = ( (dataFrame['I_1']-dataFrame['Z_1']) > -0.2) 
+        mask1 = ( (dataFrame['I_1']-dataFrame['Z_1']) > -0.2)
         mask2 = ( (dataFrame['I_1']-dataFrame['Z_1']) <= 0.3)
         mask = (mask1 & mask2)
         dataFrame = dataFrame[mask].copy()
@@ -143,7 +143,7 @@ def DELVE_tie_to_stds(args):
         dataFrame['Yerr_des'] = dataFrame['DZ_1']  # temporary
         magStdColName = 'Y_des'
         magerrStdColName = 'Yerr_des'
-        mask1 = ( (dataFrame['I_1']-dataFrame['Z_1']) > -0.2) 
+        mask1 = ( (dataFrame['I_1']-dataFrame['Z_1']) > -0.2)
         mask2 = ( (dataFrame['I_1']-dataFrame['Z_1']) <= 0.3)
         mask = (mask1 & mask2)
         dataFrame = dataFrame[mask].copy()
@@ -167,7 +167,7 @@ def DELVE_tie_to_stds(args):
     # Create an initial mask...
     mask1 = ( (df[magStdColName] >= 0.) & (df[magStdColName] <= 25.) )
     mask1 = ( mask1 & (df['FLUX_PSF_2'] > 10.) & (df['FLAGS_2'] < 2) & (np.abs(df['SPREAD_MODEL_2']) < 0.01))
-    if magerrStdColName != 'None':  
+    if magerrStdColName != 'None':
         mask1 = ( mask1 & (df[magerrStdColName] < 0.1) )
     magPsfDiffGlobalMedian = df[mask1]['MAG_DIFF'].median()
     magPsfDiffMin = magPsfDiffGlobalMedian - 5.0
@@ -191,7 +191,7 @@ def DELVE_tie_to_stds(args):
 
         # group by aggFieldColName...
         grpnewdf = newdf.groupby([aggFieldColName])
-        
+
         # add/update new columns to newdf
         print datetime.datetime.now()
         newdf['Outlier']  = grpnewdf['MAG_DIFF'].transform( lambda x: abs(x-x.mean()) > 3.00*x.std() )
@@ -205,7 +205,7 @@ def DELVE_tie_to_stds(args):
         print """  Number of rows remaining:  %d""" % ( nrows )
 
         df = newdf
-        mask = ( df['Outlier'] == False )  
+        mask = ( df['Outlier'] == False )
 
 
     # Perform pandas grouping/aggregating functions on sigma-clipped Data Frame...
@@ -245,7 +245,7 @@ def DELVE_tie_to_stds(args):
                                magPsfZeroErr, magPsfZeroNum])
     #print seriesList
     newDataFrame = pd.concat( seriesList, join='outer', axis=1 )
-                               
+
 
     #newDataFrame.index.rename('FILENAME', inplace=True)
 
@@ -265,4 +265,3 @@ if __name__ == "__main__":
     main()
 
 ##################################
-
