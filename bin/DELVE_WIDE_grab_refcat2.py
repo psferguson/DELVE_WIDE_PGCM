@@ -3,7 +3,7 @@
     DELVE_grab_relevant_refcat2_data.py
 
     Example:
-    
+
     DELVE_grab_relevant_refcat2_data.py --help
 
     DELVE_grab_relevant_refcat2_data.py --inputFile inputFile.csv --outputFile outputFile.csv --verbose 2
@@ -12,47 +12,26 @@
     like in the DESDM image table...
 
     WARNING:  avoid using on ginormous regions.  It seems to handle SDSSDR13 coverage area well, though.
-    
+
     """
 
 ##################################
-
-def main():
-
-    import argparse
-    import time
-
-    """Create command line arguments"""
-    parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument('--inputFile', help='name of the input CSV file', default='input.csv')
-    parser.add_argument('--outputFile', help='name of the output CSV file', default='output.csv')
-    parser.add_argument('--verbose', help='verbosity level of output to screen (0,1,2,...)', default=0, type=int)
-    args = parser.parse_args()
-
-    if args.verbose > 0: print args
-
-    status = grab_relevant_refcat2_data(args)
-
-    return status
-
-
-##################################
-# 
+#
 
 def grab_relevant_refcat2_data(args):
 
-    import numpy as np 
+    import numpy as np
     import os
     import sys
     import datetime
     import pandas as pd
     import healpixTools
 
-    if args.verbose > 0:
+    if args["verbose"] > 0:
         print "grab_relevant_refcat2_data"
 
-    inputFile = args.inputFile
-    outputFile = args.outputFile
+    inputFile = args["grab_refcat_inputFile"]+args["BinIndex"]+".csv"
+    outputFile = args["grab_refcat_outputFile"]+args["BinIndex"]+".csv" #'DELVE_Calib_expinfo_fnal'+bin_index+'.csv'
 
     # Location of healpixelized ATLAS-REFCAT2 catalog...
     dirName_refcat2 = '/data/des40.b/data/dtucker/ATLAS-REFCAT2/AllamFormat'
@@ -64,7 +43,7 @@ def grab_relevant_refcat2_data(args):
 
 
     # Read selected columns from inputFile into a pandas DataFrame...
-    if args.verbose > 0:
+    if args["verbose"] > 0:
         print """Reading in RA,DEC columns from %s as a pandas DataFrame...""" % (inputFile)
         print datetime.datetime.now()
     try:
@@ -75,7 +54,7 @@ def grab_relevant_refcat2_data(args):
         print "Exiting..."
         return 1
 
-    if args.verbose > 0:
+    if args["verbose"] > 0:
         print datetime.datetime.now()
         print
 
@@ -95,9 +74,9 @@ def grab_relevant_refcat2_data(args):
     hpx8_array = np.concatenate((hpx_array_1,hpx_array_2,hpx_array_3,hpx_array_4,hpx_array_CENT), axis=None)
     hpx8_array = np.sort(np.unique(hpx8_array))
 
-    if args.verbose > 0:
+    if args["verbose"] > 0:
         print 'hpx8_array: ', hpx8_array
-    
+
     # We no longer need df...
     del df
 
@@ -109,21 +88,21 @@ def grab_relevant_refcat2_data(args):
         else:
             all_files.append(myfile)
 
-    if args.verbose > 0:
+    if args["verbose"] > 0:
         print 'Reading in columns from the various ATLAS REFCAT2 healpix files...'
         print datetime.datetime.now()
-    # Trick from 
+    # Trick from
     #  http://stackoverflow.com/questions/20906474/import-multiple-csv-files-into-pandas-and-concatenate-into-one-dataframe
     #df = pd.concat((pd.read_csv(f) for f in all_files))
     df = pd.concat((pd.read_csv(f) for f in all_files), ignore_index=True)
-    if args.verbose > 0:
+    if args["verbose"] > 0:
         print datetime.datetime.now()
         print
 
     # Rename Dec column as DEC...
     # (Trick from S Allam)
     df.rename(columns={'Dec':'DEC'},inplace=True)
-    
+
     # Create RA_WRAP column...
     df.loc[:, 'RA_WRAP'] = df.loc[:, 'RA']
 
@@ -135,11 +114,11 @@ def grab_relevant_refcat2_data(args):
     df.sort_values(by='RA_WRAP', ascending=True, inplace=True)
 
     # Write to outputFile...
-    if args.verbose > 0:
+    if args["verbose"] > 0:
         print """Writing output file %s...""" % (outputFile)
         print datetime.datetime.now()
     df.to_csv(outputFile, index=False, float_format='%.6f')
-    if args.verbose > 0:
+    if args["verbose"] > 0:
         print datetime.datetime.now()
         print
 
@@ -148,6 +127,25 @@ def grab_relevant_refcat2_data(args):
 
     return 0
 
+##################################
+
+def main():
+
+    import argparse
+    import time
+
+    """Create command line arguments"""
+    parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    parser.add_argument('--inputFile', help='name of the input CSV file', default='input.csv')
+    parser.add_argument('--outputFile', help='name of the output CSV file', default='output.csv')
+    parser.add_argument('--verbose', help='verbosity level of output to screen (0,1,2,...)', default=0, type=int)
+    args = vars(parser.parse_args())
+
+    if int(args["verbose"]) > 0: print args
+
+    status = grab_relevant_refcat2_data(args)
+
+    return status
 
 
 ##################################

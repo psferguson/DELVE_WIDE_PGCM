@@ -35,8 +35,8 @@ def main():
 
 def DELVE_Calib_concat_se_objects_fnal(args):
 
-    inputFile=args.inputFile
-    outputFile=args.outputFile
+    inputFile=args["concat_input_file"]
+    outputFile=args["concat_output_file"]
     catDirName=args.catDirName
     band=args.band
 
@@ -55,7 +55,7 @@ def DELVE_Calib_concat_se_objects_fnal(args):
             print fileName
         else:
             print fileName+':  BAD'
-        
+
     if args.verbose>0:
         print 'Concatenating individual files...'
     df_seobj = pd.concat(pd.read_csv(f) for f in fileList)
@@ -69,7 +69,7 @@ def DELVE_Calib_concat_se_objects_fnal(args):
                             on=['FILENAME'], \
                             how='inner', \
                             suffixes=('','_y')).reset_index(drop=True)
-        
+
     if args.verbose>0:
         print 'Sorting merged file by RA_WRAP...'
     df_merge = df_merge.sort_values(by=['RA_WRAP'])
@@ -77,7 +77,7 @@ def DELVE_Calib_concat_se_objects_fnal(args):
     if args.verbose>0:
         print 'Outputting merged file...'
     df_merge.to_csv(outputFile, index=False)
-    
+
 
     return 0
 

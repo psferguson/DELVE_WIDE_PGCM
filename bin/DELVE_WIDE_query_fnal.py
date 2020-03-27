@@ -83,7 +83,7 @@ def exposures_query(ramin,ramax,decmin,decmax,bin_index="999"):
     df_expinfo = df_expinfo.loc[:,~df_expinfo.columns.duplicated()]
 
     # Output df_expinfo...
-    df_expinfo.to_csv('DELVE_Calib_expinfo_fnal'+bin_index+'.csv',index=False)
+    df_expinfo.to_csv('DELVE_Calib_expinfo_fnal_'+bin_index+'.csv',index=False)
     return df_expinfo
 
 ##################################
@@ -188,7 +188,6 @@ def do_db_querys(args):
 def main():
 
     import argparse
-    import time
 
     """Create command line arguments"""
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -213,15 +212,15 @@ def main():
     parser.add_argument('--verbose',
                         help='verbosity level of output to screen (0,1,2,...)',
                         default=0, type=int)
-    args = parser.parse_args()
+    args = vars(parser.parse_args()) # making it a python dict explicitly
 
-    if args.RAmin > args.RAmax: print "RA limits bad"
-    if args.Decmin > args.Decmax: print "DEC limits bad"
+    if float(args["RAmin"]) > float(args["RAmax"]): print "RA limits bad"
+    if float(args["Decmin"]) > float(args["Decmax"]): print "DEC limits bad"
     # NEED TO ADD SANITY CHECKS ON FILTER BAND, ETC.
 
-    if args.verbose > 0: print args
+    if int(args["verbose"]) > 0: print args
 
-    status = do_db_querys(args)
+    status = do_db_querys(vars(args))
 
 
 ##################################

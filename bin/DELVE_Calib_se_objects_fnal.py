@@ -37,8 +37,8 @@ def main():
 
 def DELVE_Calib_se_objects_fnal(args):
 
-    inputFile=args.inputFile
-    outputFile=args.outputFile
+    inputFile=args["se_input_file"]
+    outputFile=args["se_output_file"]
     df_cat = catfits_to_catdf(inputFile)
     df_cat.to_csv(outputFile, index=False)
 
