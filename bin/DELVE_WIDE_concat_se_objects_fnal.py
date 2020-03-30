@@ -56,25 +56,25 @@ def DELVE_Calib_concat_se_objects_fnal(args):
         else:
             print fileName+':  BAD'
 
-    if args.verbose>0:
+    if args["verbose"]>0:
         print 'Concatenating individual files...'
     df_seobj = pd.concat(pd.read_csv(f) for f in fileList)
 
-    if args.verbose>0:
+    if args["verbose"]>0:
         print df_seobj.RA.size
 
-    if args.verbose>0:
+    if args["verbose"]>0:
         print 'Merging exp/imginfo with se_obj info...'
     df_merge = pd.merge(df_input, df_seobj, \
                             on=['FILENAME'], \
                             how='inner', \
                             suffixes=('','_y')).reset_index(drop=True)
 
-    if args.verbose>0:
+    if args["verbose"]>0:
         print 'Sorting merged file by RA_WRAP...'
     df_merge = df_merge.sort_values(by=['RA_WRAP'])
 
-    if args.verbose>0:
+    if args["verbose"]>0:
         print 'Outputting merged file...'
     df_merge.to_csv(outputFile, index=False)
 

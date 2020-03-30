@@ -12,7 +12,7 @@ import sys
 #need to add in support for config control of filenames
 ##################################
 
-def filepaths_query(ramin,ramax,decmin,decmax,bin_index="999",out_file):
+def filepaths_query(ramin,ramax,decmin,decmax,bin_index="999",out_file="filepaths_out.csv"):
     # Query BLISS db image filepaths to grab everything in a given ra dec bin
     print 'Query BLISS db image filepaths in delve-wide program...'
     db = archive.database.Database(dbname='db-bliss')
@@ -47,7 +47,7 @@ def filepaths_query(ramin,ramax,decmin,decmax,bin_index="999",out_file):
 
 ##################################
 
-def exposures_query(ramin,ramax,decmin,decmax,bin_index="999",out_file):
+def exposures_query(ramin,ramax,decmin,decmax,bin_index="999",out_file="exposures_out.csv"):
 # Query BLISS db exposures in delve-deep program...
     print 'Query BLISS db exposures in delve-deep program...'
     db = archive.database.Database(dbname='db-bliss')
@@ -88,7 +88,7 @@ def exposures_query(ramin,ramax,decmin,decmax,bin_index="999",out_file):
 
 ##################################
 
-def image_info_query(ramin,ramax,decmin,decmax,bin_index="999",out_file):
+def image_info_query(ramin,ramax,decmin,decmax,bin_index="999",out_file="image_info.csv"):
     # Query BLISS db images in delve-deep program...
     print 'Query BLISS db image info in delve-wide program...'
     db = archive.database.Database(dbname='db-bliss')

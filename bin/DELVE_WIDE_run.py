@@ -43,11 +43,11 @@ def main():
     #    config = yaml.load(open(args.config))
     #else:
     #	raise ValueError('Config File Argument Required')
-    config={'do_db_query':True,
-            'do_grab_refcat2':True,
-            'do_runConvert':True,
+    config={'do_db_query':False,
+            'do_grab_refcat2':False,
+            'do_runConvert':False,
             'do_concat':False,
-            'do_match':False,
+            'do_match':True,
             'do_calc_zps':False,
             'prefix':"test",
             'band_list':["g"],#["u", "g", "r", "i", "z", "Y"],
@@ -123,11 +123,11 @@ def main():
 
             if len(subset) > 0:
                 for input_file in df_filepaths["FILEPATH"]:
-                    trunc_pos=inputFile.rfind("/")+1
-                    output_file="./Downloads/"+inputFile[trunc_pos:-5]+'.csv'
+                    trunc_pos=input_file.rfind("/")+1
+                    output_file="./Downloads/"+input_file[trunc_pos:-5]+'.csv'
                     run_con_config["se_input_file"]=input_file
                     run_con_config["se_output_file"]=output_file
-                    status=DELVE_se_obj.DELVE_Calib_se_objects_fnal(config)
+                    status=DELVE_se_obj.DELVE_Calib_se_objects_fnal(run_con_config)
 
 
         if config["do_concat"] == True:
