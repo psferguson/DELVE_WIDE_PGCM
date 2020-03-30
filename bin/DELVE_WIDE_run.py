@@ -53,7 +53,7 @@ def main():
             'band_list':["g"],#["u", "g", "r", "i", "z", "Y"],
             'verbose':1,
             #### db query  parameters
-            'query_filepaths_outfile_prefix':'DELVE_Calib_filepaths_fnal_bini_',
+            'query_filepaths_outfile_prefix':'DELVE_Calib_filepaths_fnal_bin_',
             'query_expinfo_outfile_prefix':'DELVE_Calib_expinfo_fnal_bin_',
             'query_imginfo_outfile_prefix':'DELVE_Calib_imginfo_fnal_bin_',
             'query_expimgfileinfo_outfile_prefix':'DELVE_Calib_expimgfileinfo_fnal_bin_',
