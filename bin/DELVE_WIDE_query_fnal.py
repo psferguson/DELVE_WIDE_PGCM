@@ -12,7 +12,7 @@ import sys
 #need to add in support for config control of filenames
 ##################################
 
-def filepaths_query(ramin,ramax,decmin,decmax,bin_index="999"):
+def filepaths_query(ramin,ramax,decmin,decmax,bin_index="999",out_file):
     # Query BLISS db image filepaths to grab everything in a given ra dec bin
     print 'Query BLISS db image filepaths in delve-wide program...'
     db = archive.database.Database(dbname='db-bliss')
@@ -42,12 +42,12 @@ def filepaths_query(ramin,ramax,decmin,decmax,bin_index="999"):
     df_filepaths.columns = [x.upper() for x in df_filepaths.columns]
 
     # Output df_filepaths...
-    df_filepaths.to_csv('DELVE_Calib_filepaths_fnal_bin'+bin_index+'.csv',index=False)
+    df_filepaths.to_csv(out_file,index=False)
     return df_filepaths
 
 ##################################
 
-def exposures_query(ramin,ramax,decmin,decmax,bin_index="999"):
+def exposures_query(ramin,ramax,decmin,decmax,bin_index="999",out_file):
 # Query BLISS db exposures in delve-deep program...
     print 'Query BLISS db exposures in delve-deep program...'
     db = archive.database.Database(dbname='db-bliss')
@@ -83,12 +83,12 @@ def exposures_query(ramin,ramax,decmin,decmax,bin_index="999"):
     df_expinfo = df_expinfo.loc[:,~df_expinfo.columns.duplicated()]
 
     # Output df_expinfo...
-    df_expinfo.to_csv('DELVE_Calib_expinfo_fnal_'+bin_index+'.csv',index=False)
+    df_expinfo.to_csv(out_file,index=False)
     return df_expinfo
 
 ##################################
 
-def image_info_query(ramin,ramax,decmin,decmax,bin_index="999"):
+def image_info_query(ramin,ramax,decmin,decmax,bin_index="999",out_file):
     # Query BLISS db images in delve-deep program...
     print 'Query BLISS db image info in delve-wide program...'
     db = archive.database.Database(dbname='db-bliss')
@@ -113,7 +113,7 @@ def image_info_query(ramin,ramax,decmin,decmax,bin_index="999"):
     df_imginfo.columns = [x.upper() for x in df_imginfo.columns]
 
     # Output df_imginfo...
-    df_imginfo.to_csv('DELVE_Calib_imginfo_fnal_bin'+bin_index+'.csv',index=False)
+    df_imginfo.to_csv(out_file,index=False)
     return df_imginfo
 
 ##################################
@@ -127,10 +127,14 @@ def do_db_querys(args):
     decmin=args['DecMin']
     decmax=args['DecMax']
     bin_index=args['BinIndex']
+    filepaths_out_file=args["query_filepaths_outfile_prefix"]+args["BinIndex"]+".csv"
+    exp_info_out_file=args["query_expinfo_outfile_prefix"]+args["BinIndex"]+".csv"
+    imginfo_out_file=args["query_imginfo_outfile_prefix"]+args["BinIndex"]+".csv"
+    imgfileinfo_out_file=args["query_expimgfileinfo_outfile_prefix"]+args["BinIndex"]+".csv"
 
-    df_filepaths=filepaths_query(ramin,ramax,decmin,decmax,bin_index)
-    df_expinfo=exposures_query(ramin,ramax,decmin,decmax,bin_index)
-    df_imginfo=image_info_query(ramin,ramax,decmin,decmax,bin_index)
+    df_filepaths=filepaths_query(ramin,ramax,decmin,decmax,bin_index,filepaths_out_file)
+    df_expinfo=exposures_query(ramin,ramax,decmin,decmax,bin_index,exp_info_out_file)
+    df_imginfo=image_info_query(ramin,ramax,decmin,decmax,bin_index, imginfo_out_file)
     # Merge df_imginfo with df_filepaths...
     print 'Merge df_imginfo with df_filepaths...'
     df_imgfileinfo = pd.merge(df_imginfo, df_filepaths, \
@@ -143,7 +147,7 @@ def do_db_querys(args):
     df_imgfileinfo.drop(to_drop, axis=1, inplace=True)
 
     # Output df_imgfileinfo...
-    df_imgfileinfo.to_csv('DELVE_Calib_imgfileinfo_fnal_bin'+bin_index+'.csv',index=False)
+    df_imgfileinfo.to_csv(imgfileinfo_out_file,index=False)
 
 
     # Merge df_expinfo with df_imgfileinfo...
@@ -158,7 +162,7 @@ def do_db_querys(args):
     df_expimgfileinfo.drop(to_drop, axis=1, inplace=True)
 
     # Output df_expimginfo...
-    df_expimgfileinfo.to_csv('DELVE_Calib_expimgfileinfo_fnal_bin'+bin_index+'.csv',index=False)
+    df_expimgfileinfo.to_csv(imgfileinfo_out_file,index=False)
 
 
     # If it does not alreayd exist, create a subdiretory called Downloads...
@@ -170,7 +174,7 @@ def do_db_querys(args):
     # (Could do symbolic links, but better to copy, just to
     #  be safe and not accidentally delete or modify the
     #  original files...)
-    
+
     #######################  ###########################
     #   updated this to not use symbolic links but the filepaths csv.
     ###########################################################
