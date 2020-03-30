@@ -16,7 +16,7 @@ import DELVE_WIDE_grab_refcat2 as DELVE_grab_refcat
 import DELVE_WIDE_se_objects_fnal as DELVE_se_obj
 import DELVE_WIDE_concat_se_objects_fnal as DELVE_concat_se_obj
 import DELVE_matchSortedStdObsCats as DELVE_match
-import DELVE_tie_to_refcat2 as calc_zps
+import DELVE_tie_to_refcat2 as DELVE_calc_zps
 import argparse
 
 def main():
@@ -43,12 +43,12 @@ def main():
     #    config = yaml.load(open(args.config))
     #else:
     #	raise ValueError('Config File Argument Required')
-    config={'do_db_query':False,
-            'do_grab_refcat2':False,
-            'do_runConvert':False,
-            'do_concat':False,
+    config={'do_db_query':True,
+            'do_grab_refcat2':True,
+            'do_runConvert':True,
+            'do_concat':True,
             'do_match':True,
-            'do_calc_zps':False,
+            'do_calc_zps':True,
             'prefix':"test",
             'band_list':["g"],#["u", "g", "r", "i", "z", "Y"],
             'verbose':1,
@@ -128,10 +128,11 @@ def main():
                     run_con_config["se_input_file"]=input_file
                     run_con_config["se_output_file"]=output_file
                     status=DELVE_se_obj.DELVE_Calib_se_objects_fnal(run_con_config)
-
+	    print "Done with coversion"
 
         if config["do_concat"] == True:
-            concat_config=config.copy()
+            print "Concatenating catalogs"
+	    concat_config=config.copy()
 
             concat_config["concat_input_file"]=config["query_expimgfileinfo_outfile_prefix"]+concat_config["BinIndex"]+'.csv'
             concat_config["concat_output_file"]='rawData.DELVE_Calib.'+config["band"]+'.'+config["BinIndex"]+'.csv'
@@ -144,6 +145,7 @@ def main():
         	#     --catDirName ./Downloads \
         	#     > DELVE_Calib_concat_se_objects_fnal.$date.$band.log
         if config["do_match"] == True:
+		print "Matching catalogs"
                 match_config=config.copy()
 
                 match_config["verbose"]=2
@@ -155,7 +157,8 @@ def main():
 
 
         if config["do_calc_zps"] == True:
-                calc_zps_config=config.copy()
+                print "Calculating zps"
+		calc_zps_config=config.copy()
                 calc_zps_config["zps_input_file"]='matched-rawdata_refcat2_DEEP.'+config["band"]+'.'+config["BinIndex"]+'.csv'
                 calc_zps_config["zps_output_file"]='zps.matched-rawdata_refcat2_WIDE'+config["band"]+'.'+config["BinIndex"]+'.csv'
                 status=DELVE_calc_zps.DELVE_tie_to_stds(calc_zps_config)

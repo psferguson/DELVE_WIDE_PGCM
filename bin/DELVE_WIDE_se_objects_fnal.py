@@ -42,7 +42,7 @@ def DELVE_Calib_se_objects_fnal(args):
     df_cat = catfits_to_catdf(inputFile)
     df_cat.to_csv(outputFile, index=False)
 
-    print 'Finis!'
+    #print 'Finis!'
 
 #--------------------------------------------------------------------------
 
