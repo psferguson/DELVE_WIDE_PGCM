@@ -43,9 +43,9 @@ def main():
     #    config = yaml.load(open(args.config))
     #else:
     #	raise ValueError('Config File Argument Required')
-    config={'do_db_query':False,
+    config={'do_db_query':True,
             'do_grab_refcat2':True,
-            'do_runConvert':False,
+            'do_runConvert':True,
             'do_concat':False,
             'do_match':False,
             'do_calc_zps':False,
@@ -53,10 +53,10 @@ def main():
             'band_list':["g"],#["u", "g", "r", "i", "z", "Y"],
             'verbose':1,
             #### db query  parameters
-            'query_filepaths_outfile_prefix':'DELVE_Calib_filepaths_fnal_bin',
-            'query_expinfo_outfile_prefix':'DELVE_Calib_expinfo_fnal_',
-            'query_imginfo_outfile_prefix':'DELVE_Calib_imginfo_fnal_bin',
-            'query_expimgfileinfo_outfile_prefix':'DELVE_Calib_expimgfileinfo_fnal_bin',
+            'query_filepaths_outfile_prefix':'DELVE_Calib_filepaths_fnal_bini_',
+            'query_expinfo_outfile_prefix':'DELVE_Calib_expinfo_fnal_bin_',
+            'query_imginfo_outfile_prefix':'DELVE_Calib_imginfo_fnal_bin_',
+            'query_expimgfileinfo_outfile_prefix':'DELVE_Calib_expimgfileinfo_fnal_bin_',
             #### grab refcat params
             'grab_refcat_outputFile':'ATLAS_REFCAT_2.DELVE_WIDE_',
 
@@ -78,7 +78,7 @@ def main():
     config["DecMin"]=args.DecMin
     config["DecMax"]=args.DecMax
     config["BinIndex"]=args.BinIndex
-    config["grab_refcat_inputFile"]=config["query_filepaths_outfile_prefix"]
+    config["grab_refcat_inputFile"]=config["query_expimgfileinfo_outfile_prefix"]
 
 
     #print "prefix is "+prefix
@@ -112,11 +112,11 @@ def main():
         if config["do_runConvert"] == True:
             #this replaces the symbolic link step
             print "Converting to CSV cats"
-
-            if os.path.isfile(inputFile)==False:
-                print """input file %s does not exist.  Exiting...""" % (inputFile)
+	    filepaths_file=config["query_filepaths_outfile_prefix"]+config['BinIndex']+'.csv'
+            if os.path.isfile(filepaths_file)==False:
+                print """input file %s does not exist.  Exiting...""" % (filepaths_file)
                 return 1
-            filepaths_file='DELVE_Calib_filepaths_fnal_'+config['BinIndex']+'.csv'
+            #filepaths_file='DELVE_Calib_filepaths_fnal_'+config['BinIndex']+'.csv'
             df_filepaths=pd.read_csv(filepaths_file, usecols=['FILEPATH'])
             run_con_config=config.copy()
             subset=df_filepaths["FILEPATH"][df_filepaths["FILEPATH"].str[-22]==band]
